@@ -1,9 +1,13 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+#### 2025 June 02
+
+`raw/MNTaxaImproved.csv` has column "genus" and better column names
+
 #### 2025 May 29
 
-`MNTaxaPlants.csv` is the file sent from Derek Anderson with the below information
+`raw/MNTaxaPlants.csv` is the file sent from Derek Anderson with the below information
 
 Here are the Physiognomy Codes:
 
