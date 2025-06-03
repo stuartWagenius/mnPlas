@@ -3,6 +3,8 @@ MNTaxa list of vascular plants with additions
 
 #### 2025 June 02
 
+`raw/genusFamilyTable.csv` is the file sent from Gretel Kiefer
+
 `raw/MNTaxaImproved.csv` has column "genus" and better column names
 
 #### 2025 May 29
