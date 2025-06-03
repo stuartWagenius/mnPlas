@@ -1,15 +1,18 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
-#### 2025 June 02
+#### 2025 June 03
 
-`raw/genusFamilyTable.csv` is the file sent from Gretel Kiefer
+`raw/genusFamilyImproved.csv` has additional genera (1154 records)
+
+`raw/genusFamilyTable.csv` is the file sent from Gretel Kiefer (1081 records)
 
 `raw/MNTaxaImproved.csv` has column "genus" and better column names
 
 #### 2025 May 29
 
-`raw/MNTaxaPlants.csv` is the file sent from Derek Anderson with the below information
+`raw/MNTaxaPlants.csv` is the file sent from Derek Anderson (2374 records)
+with the below information
 
 Here are the Physiognomy Codes:
 
