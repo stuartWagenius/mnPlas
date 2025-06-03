@@ -20,6 +20,8 @@ missing <- data.frame(genus_id = NA,
 # rm(xx)
 rm(generaInMn)
 
+# write.csv(missing, "raw/generaWithMissingFam.csv", row.names = F)
+
 # get synonym genus Gleason & Cronquist ####
 
 mm$generaGC <- gsub(' .*', '' , mm$synonymGC)
