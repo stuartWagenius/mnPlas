@@ -1,4 +1,4 @@
-# this file makeMnPlas.R
+# this file: makeMnPlas.R
 
 rm(list = ls())
 
@@ -22,5 +22,5 @@ nama <- c("native",           "physiognomy", "synonymGC", "commonName", "nameDNR
 namz <- c("native", "family", "physiognomy", "synonymGC", "commonName", "nameDNR")
 
 
-# write.csv(pp[pp$family_id == 5, nama], "mnAsters20250603.csv", row.names = FALSE)
+# write.csv(pp[pp$family_id %in% 5, nama], "mnAsters20250603.csv", row.names = FALSE)
 # write.csv(pp[                 , namz],   "mnPlas20250603.csv", row.names = FALSE)
