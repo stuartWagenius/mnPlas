@@ -1,4 +1,4 @@
-# this file imrpoveGenusFamily.R
+# this file raw/improveGenusFamily.R
 
 rm(list = ls())
 
@@ -6,19 +6,19 @@ rm(list = ls())
 mm <- read.csv("raw/MNTaxaImproved.csv")
 gg <- read.csv("raw/genusFamilyTable.csv")
 
-# question for gretel
-gg[gg$genus %in% gg$genus[duplicated(gg$genus)], ]
-
-gg <- gg[!gg$genus %in% gg$genus[duplicated(gg$genus)], ] # check this
-
-
 # initial merge ####
 
 echinaceaLab::compare2vectors(mm$genus, gg$genus)
 generaInMn <- echinaceaLab::compare2vectors(mm$genus, gg$genus)$in.first # not in IL list
-
-xx <- merge(mm, gg, all = T)
-xx[xx$genus %in% generaInMn, ]
+dput(names(gg))
+missing <- data.frame(genus_id = NA,
+                      genus = generaInMn, 
+                      family_id = NA,
+                      family = "unknown")
+# xx <- merge(mm, gg, all = T)
+# xx[xx$genus %in% generaInMn, ]
+# rm(xx)
+rm(generaInMn)
 
 # get synonym genus Gleason & Cronquist ####
 
@@ -27,17 +27,35 @@ mm$generaGC <- gsub(' .*', '' , mm$synonymGC)
 gcg <- mm[mm$genus != mm$generaGC, c('genus', 'generaGC')]
 gcg <- gcg[!gcg$generaGC %in% "", ]
 
-# redo merge ###
-xx <- merge(mm, gg, all.x = T)
-xx <- merge(xx, gg, by.x = "generaGC", by.y = "genus", all.x = T)
-head(xx)
+# get fam based on G&C genus ####
+cc <- merge(gcg, gg, by.x = "generaGC", by.y = "genus", all.x = T)
+cc <- merge(cc, gg, by.x = "genus", by.y = "genus", all.x = T)
+head(cc)
 
-xx[!xx$family.y %in% NA, ]
-xx[!xx$family.y %in% NA & xx$family.x %in% NA, ]
+cc[!cc$family.y %in% NA, ]
+cc[!cc$family.y %in% NA & cc$family.x %in% NA, ]
+cc[!cc$family.y %in% NA & !cc$family.x %in% NA & !(cc$family.y == cc$family.x), ] # ask Gretel
 
-xx[!xx$family.y %in% NA & !xx$family.x %in% NA & !(xx$family.y == xx$family.x), ]
+zz <- unique(cc[!cc$family.y %in% NA & cc$family.x %in% NA, ])
+rm(cc, gcg)
+
+dput(names(zz))
+zz$genus        <- NULL
+zz$genus_id.x   <- NULL
+zz$family_id.x  <- NULL
+zz$family.x     <- NULL
+dput(names(zz))
+names(zz) <- c("genus", "genus_id", "family_id", "family")
+zz$genus_id <- NA
 
 
+# make longer list ####
+dim(gg) # 1081
+gg <- rbind(gg, missing) # 1144 
+gg <- rbind(gg, zz) # 1154
+
+
+tail(gg, 80)
 
 # write file ####
-# write.csv(gg, "genusFamilyImproved.csv", row.names = FALSE)
+# write.csv(gg, "raw/genusFamilyImproved.csv", row.names = FALSE)
