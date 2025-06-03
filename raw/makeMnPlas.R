@@ -8,9 +8,19 @@ gg <- read.csv("raw/genusFamilyImproved.csv")
 
 # merge 1 ####
 
-# merge 2 ####
+pp <- merge(mm, gg)
+head(pp)
 
+# summary ####
+
+aggregate(nameDNR ~ family, pp, length)
 
 
 # write file ####
-# write.csv(xx, "mnPlas20250603.csv", row.names = FALSE)
+# dput(names(pp))
+nama <- c("native",           "physiognomy", "synonymGC", "commonName", "nameDNR")
+namz <- c("native", "family", "physiognomy", "synonymGC", "commonName", "nameDNR")
+
+
+# write.csv(pp[pp$family_id == 5, nama], "mnAsters20250603.csv", row.names = FALSE)
+# write.csv(pp[                 , namz],   "mnPlas20250603.csv", row.names = FALSE)
