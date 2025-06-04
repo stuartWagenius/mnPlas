@@ -1,6 +1,10 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+#### 2025 June 04
+
+`raw/genusFamilyImproved.csv` families updated from www.minnesotawildflowers.info (1153 records)
+
 #### 2025 June 03
 
 `raw/genusFamilyImproved.csv` has additional genera (1154 records)
