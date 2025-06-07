@@ -1,5 +1,5 @@
 "native","family","genus","familyId","genusId","physiognomy","synonymGC","commonName","nameDNR","speciesId"
-"N","Pinaceae","Abies",88,NA,"E","Abies balsamea","balsam fir","Abies balsamea",1001
+"N","Pinaceae","Abies",88,2001,"E","Abies balsamea","balsam fir","Abies balsamea",1001
 "I","Malvaceae","Abutilon",2,590,"H","Abutilon theophrasti","velvet leaf","Abutilon theophrasti",1002
 "N","Euphorbiaceae","Acalypha",3,318,"H","Acalypha rhomboidea","three-seeded mercury","Acalypha rhomboidea",1003
 "I","Aceraceae","Acer",4,55,"D","Acer ginnala","amur maple","Acer ginnala",1004
@@ -15,8 +15,8 @@
 "N","Asteraceae","Achillea",5,616,"H","Achillea millefolium, Achillea millefolium subsp. lanulosa, Achillea millefolium subsp. millefolium","common yarrow","Achillea millefolium",1014
 "I","Asteraceae","Achillea",5,616,"H","Achillea ptarmica","pearly yarrow","Achillea ptarmica",1015
 "N","Asteraceae","Achillea",5,616,"H","Achillea sibirica","Siberian yarrow","Achillea alpina",1016
-"N","Poaceae","Achnatherum",14,NA,"G","Oryzopsis hymenoides","Indian rice grass","Achnatherum hymenoides",1017
-"N","Fabaceae","Acmispon",21,NA,"H","Lotus purshianus","prairie trefoil","Acmispon americanus var. americanus",1018
+"N","Poaceae","Achnatherum",14,2002,"G","Oryzopsis hymenoides","Indian rice grass","Achnatherum hymenoides",1017
+"N","Fabaceae","Acmispon",21,2003,"H","Lotus purshianus","prairie trefoil","Acmispon americanus var. americanus",1018
 "N","Acoraceae","Acorus",6,328,"H","Acorus calamus","sweet flag","Acorus americanus",1019
 "N","Ranunculaceae","Actaea",7,329,"H","Actaea rubra","red baneberry","Actaea rubra",1020
 "N","Ranunculaceae","Actaea",7,329,"H","Actaea alba","white baneberry","Actaea pachypoda",1021
@@ -37,7 +37,7 @@
 "N","Lamiaceae","Agastache",12,332,"H","Agastache nepetoides","yellow giant hyssop","Agastache nepetoides",1036
 "N","Lamiaceae","Agastache",12,332,"H","Agastache scrophulariaefolia","purple giant hyssop","Agastache scrophulariaefolia",1037
 "N","Asteraceae","Ageratina",5,628,"H","Eupatorium rugosum var. rugosum","white snakeroot","Ageratina altissima var. altissima",1038
-"N","Asteraceae","Agoseris",5,NA,"H","Agoseris glauca var. glauca","glaucous false dandelion","Agoseris glauca var. glauca",1039
+"N","Asteraceae","Agoseris",5,2004,"H","Agoseris glauca var. glauca","glaucous false dandelion","Agoseris glauca var. glauca",1039
 "N","Rosaceae","Agrimonia",13,230,"H","Agrimonia gryposepala","common agrimony","Agrimonia gryposepala",1040
 "N","Rosaceae","Agrimonia",13,230,"H","Agrimonia striata","roadside agrimony","Agrimonia striata",1041
 "N","Rosaceae","Agrimonia",13,230,"H","Agrimonia pubescens","downy agrimony","Agrimonia pubescens",1042
@@ -68,7 +68,7 @@
 "I","Poaceae","Alopecurus",14,672,"G","","creeping meadow foxtail","Alopecurus arundinaceus",1067
 "N","Poaceae","Alopecurus",14,672,"G","Alopecurus carolinianus","Carolina foxtail","Alopecurus carolinianus",1068
 "I","Poaceae","Alopecurus",14,672,"G","Alopecurus pratensis","meadow foxtail","Alopecurus pratensis",1069
-"I","Malvaceae","Althaea",2,NA,"H","Althaea officinalis","marshmallow","Althaea officinalis",1070
+"I","Malvaceae","Althaea",2,2005,"H","Althaea officinalis","marshmallow","Althaea officinalis",1070
 "I","Brassicaceae","Alyssum",18,674,"H","Alyssum alyssoides","alyssum","Alyssum alyssoides",1071
 "I","Brassicaceae","Alyssum",18,674,"H","","desert madwort","Alyssum desertorum",1072
 "I","Amaranthaceae","Amaranthus",20,477,"H","Amaranthus blitoides","prostrate pigweed","Amaranthus blitoides",1073
@@ -91,7 +91,7 @@
 "N","Rosaceae","Amelanchier",13,6,"D","Amelanchier sanguinea s.l., Amelanchier sanguinea var. sanguinea","round-leaved juneberry","Amelanchier sanguinea",1090
 "N","Rosaceae","Amelanchier",13,6,"D","Amelanchier spicata","creeping juneberry","Amelanchier spicata",1091
 "N","Rosaceae","Amelanchier",13,6,"D","Amelanchier bartramiana","northern juneberry","Amelanchier bartramiana",1092
-"N","Orchidaceae","Amerorchis",23,NA,"H","Orchis rotundifolia","small round-leaved orchis","Amerorchis rotundifolia",1093
+"N","Orchidaceae","Amerorchis",23,2006,"H","Orchis rotundifolia","small round-leaved orchis","Amerorchis rotundifolia",1093
 "N","Lythraceae","Ammannia",61,676,"H","","grand redstem","Ammannia robusta",1094
 "N","Poaceae","Ammophila",14,204,"G","Ammophila breviligulata","beachgrass","Ammophila breviligulata subsp. breviligulata",1095
 "N","Fabaceae","Amorpha",21,241,"D","Amorpha canescens","leadplant","Amorpha canescens",1096
@@ -146,7 +146,7 @@
 "N","Araliaceae","Aralia",25,252,"H","Aralia nudicaulis","wild sarsaparilla","Aralia nudicaulis",1145
 "N","Araliaceae","Aralia",25,252,"H","Aralia racemosa","American spikenard","Aralia racemosa",1146
 "N","Araliaceae","Aralia",25,252,"D,H","Aralia hispida","bristly sarsaparilla","Aralia hispida",1147
-"N","Viscaceae","Arceuthobium",176,NA,"X","Arceuthobium pusillum","dwarf mistletoe","Arceuthobium pusillum",1148
+"N","Viscaceae","Arceuthobium",176,2007,"X","Arceuthobium pusillum","dwarf mistletoe","Arceuthobium pusillum",1148
 "I","Asteraceae","Arctium",5,97,"H","Arctium minus","common burdock","Arctium minus",1149
 "I","Asteraceae","Arctium",5,97,"H","Arctium tomentosum","woolly burdock","Arctium tomentosum",1150
 "I","Asteraceae","Arctium",5,97,"H","Arctium lappa","great burdock","Arctium lappa",1151
@@ -162,7 +162,7 @@
 "N","Poaceae","Aristida",14,503,"G","Aristida dichotoma var. curtissii","churchmouse three-awn","Aristida dichotoma var. curtissii",1161
 "N","Poaceae","Aristida",14,503,"G","Aristida tuberculosa","seaside three-awn","Aristida tuberculosa",1162
 "I","Brassicaceae","Armoracia",18,698,"H","Armoracia rusticana","horseradish","Armoracia rusticana",1163
-"N","Asteraceae","Arnica",5,NA,"H","Arnica lonchophylla","long-leaved arnica","Arnica lonchophylla",1164
+"N","Asteraceae","Arnica",5,2008,"H","Arnica lonchophylla","long-leaved arnica","Arnica lonchophylla",1164
 "N","Asteraceae","Arnoglossum",5,109,"H","Cacalia plantaginea","tuberous Indian plantain","Arnoglossum plantagineum",1165
 "N","Asteraceae","Arnoglossum",5,109,"H","Cacalia muhlenbergii","great Indian plantain","Arnoglossum reniforme",1166
 "N","Rosaceae","Aronia",13,242,"D","Aronia melanocarpa","black chokeberry","Aronia melanocarpa",1167
@@ -212,8 +212,8 @@
 "N","Scrophulariaceae","Aureolaria",11,473,"H","Aureolaria pedicularia, Aureolaria pedicularia var. ambigens, Aureolaria pedicularia var. pedicularia","fernleaf false foxglove","Aureolaria pedicularia",1211
 "I","Poaceae","Avena",14,707,"G","Avena fatua","wild oats","Avena fatua",1212
 "I","Poaceae","Avena",14,707,"G","Avena sativa","cultivated oats","Avena sativa",1213
-"N","Poaceae","Avenula",14,NA,"G","Helictotrichon hookeri","spike oat","Avenula hookeri",1214
-"I","Amaranthaceae","Axyris",20,NA,"H","Axyris amaranthoides","Russian pigweed","Axyris amaranthoides",1215
+"N","Poaceae","Avenula",14,2009,"G","Helictotrichon hookeri","spike oat","Avenula hookeri",1214
+"I","Amaranthaceae","Axyris",20,2010,"H","Axyris amaranthoides","Russian pigweed","Axyris amaranthoides",1215
 "N","Azollaceae","Azolla",144,708,"H","Azolla mexicana","Mexican mosquito fern","Azolla microphylla",1216
 "N","Scrophulariaceae","Bacopa",11,709,"H","Bacopa rotundifolia","waterhyssop","Bacopa rotundifolia",1217
 "N","Fabaceae","Baptisia",21,84,"H","Baptisia lactea var. lactea","white wild indigo","Baptisia lactea var. lactea",1218
@@ -242,7 +242,7 @@
 "N","Asteraceae","Bidens",5,85,"H","Bidens comosa","tufted beggarticks","Bidens tripartita",1241
 "N","Asteraceae","Bidens",5,85,"H","Bidens vulgata","common beggarticks","Bidens vulgata",1242
 "N","Asteraceae","Bidens",5,85,"H","Bidens frondosa","leafy beggarticks","Bidens frondosa",1243
-"N","Polygonaceae","Bistorta",116,NA,"H","Polygonum viviparum","alpine bistort","Bistorta vivipara",1244
+"N","Polygonaceae","Bistorta",116,2011,"H","Polygonum viviparum","alpine bistort","Bistorta vivipara",1244
 "N","Lamiaceae","Blephilia",12,86,"H","Blephilia hirsuta","woodmint","Blephilia hirsuta",1245
 "N","Brassicaceae","Boechera",18,1120,"H","Arabis canadensis","sicklepod","Boechera canadensis",1246
 "N","Brassicaceae","Boechera",18,1120,"H","Arabis holboellii","Collins' rock cress","Boechera collinsii",1247
@@ -314,7 +314,7 @@
 "N","Orchidaceae","Calopogon",23,196,"H","Calopogon oklahomensis","Oklahoma grass pink","Calopogon oklahomensis",1313
 "N","Ranunculaceae","Caltha",7,346,"H","Caltha natans","floating marsh marigold","Caltha natans",1314
 "N","Ranunculaceae","Caltha",7,346,"H","Caltha palustris","common marsh marigold","Caltha palustris",1315
-"N","Orchidaceae","Calypso",23,NA,"H","Calypso bulbosa var. americana","fairy slipper","Calypso bulbosa var. americana",1316
+"N","Orchidaceae","Calypso",23,2012,"H","Calypso bulbosa var. americana","fairy slipper","Calypso bulbosa var. americana",1316
 "N","Convolvulaceae","Calystegia",40,110,"H","Calystegia sepium","hedge bindweed","Calystegia sepium",1317
 "N","Convolvulaceae","Calystegia",40,110,"H","","hedge bindweed","Calystegia sepium subsp. angulata",1318
 "N","Convolvulaceae","Calystegia",40,110,"H","","Appalachia false bindweed","Calystegia sepium subsp. appalachiana",1319
@@ -332,7 +332,7 @@
 "I","Campanulaceae","Campanula",41,162,"H","Campanula rapunculoides","European bellflower","Campanula rapunculoides",1331
 "N","Campanulaceae","Campanula",41,162,"H","Campanula rotundifolia","harebell","Campanula rotundifolia",1332
 "N","Campanulaceae","Campanula",41,162,"H","Campanula aparinoides var. aparinoides","marsh bellflower","Campanula aparinoides var. aparinoides",1333
-"N","Asteraceae","Canadanthus",5,NA,"H","Aster modestus","modest aster","Canadanthus modestus",1334
+"N","Asteraceae","Canadanthus",5,2013,"H","Aster modestus","modest aster","Canadanthus modestus",1334
 "I","Cannabaceae","Cannabis",151,738,"H","Cannabis sativa","marijuana","Cannabis sativa",1335
 "I","Brassicaceae","Capsella",18,739,"H","Capsella bursa-pastoris","shepherd's-purse","Capsella bursa-pastoris",1336
 "I","Fabaceae","Caragana",21,740,"D","Caragana arborescens","Siberian peashrub","Caragana arborescens",1337
@@ -536,10 +536,10 @@
 "I","Scrophulariaceae","Chaenorhinum",11,749,"H","Chaenorrhinum minus","dwarf snapdragon","Chaenorhinum minus",1535
 "N","Fabaceae","Chamaecrista",21,372,"H","Chamaecrista fasciculata","partridge pea","Chamaecrista fasciculata",1536
 "N","Ericaceae","Chamaedaphne",22,497,"B","Chamaedaphne calyculata","leatherleaf","Chamaedaphne calyculata",1537
-"N","Onagraceae","Chamaenerion",39,NA,"H","Epilobium angustifolium","fireweed","Chamaenerion angustifolium",1538
-"N","Onagraceae","Chamaenerion",39,NA,"H","Epilobium angustifolium var. canescens","fireweed","Chamaenerion angustifolium subsp. circumvagum",1539
-"N","Onagraceae","Chamaenerion",39,NA,"H","Epilobium angustifolium var. angustifolium","fireweed","Chamaenerion angustifolium subsp. angustifolium",1540
-"N","Rosaceae","Chamaerhodos",13,NA,"H","Chamaerhodos erecta","Nuttall's groundrose","Chamaerhodos erecta",1541
+"N","Onagraceae","Chamaenerion",39,2014,"H","Epilobium angustifolium","fireweed","Chamaenerion angustifolium",1538
+"N","Onagraceae","Chamaenerion",39,2014,"H","Epilobium angustifolium var. canescens","fireweed","Chamaenerion angustifolium subsp. circumvagum",1539
+"N","Onagraceae","Chamaenerion",39,2014,"H","Epilobium angustifolium var. angustifolium","fireweed","Chamaenerion angustifolium subsp. angustifolium",1540
+"N","Rosaceae","Chamaerhodos",13,2015,"H","Chamaerhodos erecta","Nuttall's groundrose","Chamaerhodos erecta",1541
 "I","Papaveraceae","Chelidonium",127,756,"H","Chelidonium majus","celandine","Chelidonium majus",1542
 "N","Scrophulariaceae","Chelone",11,608,"H","Chelone glabra","white turtlehead","Chelone glabra",1543
 "N","Chenopodiaceae","Chenopodium",49,523,"H","Chenopodium berlandieri","pitseed goosefoot","Chenopodium berlandieri",1544
@@ -583,7 +583,7 @@
 "N","Cyperaceae","Cladium",36,121,"G","Cladium mariscoides","twig rush","Cladium mariscoides",1582
 "N","Portulacaceae","Claytonia",51,132,"H","Claytonia caroliniana","Carolina spring beauty","Claytonia caroliniana",1583
 "N","Portulacaceae","Claytonia",51,132,"H","Claytonia virginica","Virginia spring beauty","Claytonia virginica",1584
-"N","Osmundaceae","Claytosmunda",103,NA,"H","Osmunda claytoniana","interrupted fern","Claytosmunda claytoniana",1585
+"N","Osmundaceae","Claytosmunda",103,2016,"H","Osmunda claytoniana","interrupted fern","Claytosmunda claytoniana",1585
 "N","Ranunculaceae","Clematis",7,255,"C","Clematis virginiana","virgin's bower","Clematis virginiana",1586
 "N","Ranunculaceae","Clematis",7,255,"C","Clematis occidentalis","purple clematis","Clematis occidentalis var. occidentalis",1587
 "N","Liliaceae","Clintonia",16,627,"H","Clintonia borealis","bluebead lily","Clintonia borealis",1588
@@ -626,9 +626,9 @@
 "N","Fumariaceae","Corydalis",57,571,"H","Corydalis sempervirens","pale corydalis","Corydalis sempervirens",1625
 "N","Betulaceae","Corylus",19,360,"D","Corylus cornuta","beaked hazelnut","Corylus cornuta subsp. cornuta",1626
 "N","Betulaceae","Corylus",19,360,"D","Corylus americana","American hazelnut","Corylus americana",1627
-"N","Cactaceae","Coryphantha",102,NA,"K","Coryphantha vivipara, Coryphantha vivipara var. vivipara","ball cactus","Coryphantha vivipara",1628
-"I","Asteraceae","Cota",5,NA,"H","Anthemis tinctoria","golden marguerite","Cota tinctoria",1629
-"N","Crassulaceae","Crassula",107,NA,"H","Crassula aquatica","water pygmyweed","Crassula aquatica",1630
+"N","Cactaceae","Coryphantha",102,2017,"K","Coryphantha vivipara, Coryphantha vivipara var. vivipara","ball cactus","Coryphantha vivipara",1628
+"I","Asteraceae","Cota",5,2018,"H","Anthemis tinctoria","golden marguerite","Cota tinctoria",1629
+"N","Crassulaceae","Crassula",107,2019,"H","Crassula aquatica","water pygmyweed","Crassula aquatica",1630
 "N","Rosaceae","Crataegus",13,46,"D","Crataegus chrysocarpa s.l.","fireberry hawthorn","Crataegus chrysocarpa",1631
 "N","Rosaceae","Crataegus",13,46,"D","","Blanchard's hawthorn","Crataegus chrysocarpa var. blanchardii",1632
 "N","Rosaceae","Crataegus",13,46,"D","Crataegus chrysocarpa s.l.","fireberry hawthorn","Crataegus chrysocarpa var. chrysocarpa",1633
@@ -670,7 +670,7 @@
 "N","Cuscutaceae","Cuscuta",59,59,"C,H","","large-seed dodder","Cuscuta indecora var. indecora",1669
 "N","Asteraceae","Cyclachaena",5,784,"H","Iva xanthifolia","marsh elder","Cyclachaena xanthiifolia",1670
 "N","Chenopodiaceae","Cycloloma",49,529,"H","Cycloloma atriplicifolium","winged pigweed","Cycloloma atriplicifolium",1671
-"N","Apiaceae","Cymopterus",9,NA,"H","Cymopterus acaulis var. acaulis","plains spring parsley","Cymopterus glomeratus var. glomeratus",1672
+"N","Apiaceae","Cymopterus",9,2020,"H","Cymopterus acaulis var. acaulis","plains spring parsley","Cymopterus glomeratus var. glomeratus",1672
 "I","Boraginaceae","Cynoglossum",60,530,"H","Cynoglossum officinale","hound's tongue","Cynoglossum officinale",1673
 "N","Boraginaceae","Cynoglossum",60,530,"H","Cynoglossum virginianum var. boreale","wild comfrey","Cynoglossum virginianum var. boreale",1674
 "N","Cyperaceae","Cyperus",36,135,"G","Cyperus acuminatus","short-pointed umbrella sedge","Cyperus acuminatus",1675
@@ -758,8 +758,8 @@
 "N","Poaceae","Dichanthelium",14,103,"G","Panicum leibergii","Leiberg's panic grass","Dichanthelium leibergii",1757
 "N","Lythraceae","Didiplis",61,800,"H","Didiplis diandra","water purslane","Didiplis diandra",1758
 "N","Caprifoliaceae","Diervilla",62,485,"D","Diervilla lonicera","bush honeysuckle","Diervilla lonicera",1759
-"I","Plantaginaceae","Digitalis",112,NA,"H","Digitalis lanata","Grecian foxglove","Digitalis lanata",1760
-"I","Plantaginaceae","Digitalis",112,NA,"H","","yellow foxglove","Digitalis grandiflora",1761
+"I","Plantaginaceae","Digitalis",112,2021,"H","Digitalis lanata","Grecian foxglove","Digitalis lanata",1760
+"I","Plantaginaceae","Digitalis",112,2021,"H","","yellow foxglove","Digitalis grandiflora",1761
 "N","Poaceae","Digitaria",14,532,"G","Leptoloma cognatum","fall witch grass","Digitaria cognata",1762
 "I","Poaceae","Digitaria",14,532,"G","Digitaria ischaemum","smooth crabgrass","Digitaria ischaemum",1763
 "I","Poaceae","Digitaria",14,532,"G","Digitaria sanguinalis","hairy crabgrass","Digitaria sanguinalis",1764
@@ -863,8 +863,8 @@
 "N","Poaceae","Elymus",14,177,"G","Elymus virginicus","Virginia wild rye","Elymus virginicus var. virginicus",1862
 "N","Poaceae","Elymus",14,177,"G","Elymus wiegandii","Weigand's wild rye","Elymus wiegandii",1863
 "N","Poaceae","Elymus",14,177,"G","Elymus hystrix","bottlebrush grass","Elymus hystrix",1864
-"N","Ericaceae","Empetrum",22,NA,"B","Empetrum rubrum var. atropurpureum","purple crowberry","Empetrum atropurpureum",1865
-"N","Ericaceae","Empetrum",22,NA,"B","Empetrum nigrum var. hermaphroditum","black crowberry","Empetrum nigrum",1866
+"N","Ericaceae","Empetrum",22,2022,"B","Empetrum rubrum var. atropurpureum","purple crowberry","Empetrum atropurpureum",1865
+"N","Ericaceae","Empetrum",22,2022,"B","Empetrum nigrum var. hermaphroditum","black crowberry","Empetrum nigrum",1866
 "N","Ranunculaceae","Enemion",7,818,"H","Isopyrum biternatum","false rue anemone","Enemion biternatum",1867
 "N","Ericaceae","Epigaea",22,597,"B","Epigaea repens","trailing arbutus","Epigaea repens",1868
 "N","Onagraceae","Epilobium",39,173,"H","Epilobium ciliatum var. ciliatum","American willow herb","Epilobium ciliatum subsp. ciliatum",1869
@@ -912,7 +912,7 @@
 "N","Asteraceae","Erigeron",5,5,"H","Erigeron strigosus var. septentrionalis","daisy fleabane","Erigeron strigosus var. septentrionalis",1911
 "N","Asteraceae","Erigeron",5,5,"H","Erigeron strigosus var. beyrichii, Erigeron strigosus var. strigosus","daisy fleabane","Erigeron strigosus var. strigosus",1912
 "N","Asteraceae","Erigeron",5,5,"H","Erigeron philadelphicus","Philadelphia fleabane","Erigeron philadelphicus var. philadelphicus",1913
-"N","Eriocaulaceae","Eriocaulon",602,NA,"H,S","Eriocaulon aquaticum","pipewort","Eriocaulon aquaticum",1914
+"N","Eriocaulaceae","Eriocaulon",602,2023,"H,S","Eriocaulon aquaticum","pipewort","Eriocaulon aquaticum",1914
 "I","Poaceae","Eriochloa",14,381,"G","Eriochloa villosa","hairy cupgrass","Eriochloa villosa",1915
 "N","Cyperaceae","Eriophorum",36,176,"G","Eriophorum polystachion","tall cottongrass","Eriophorum angustifolium subsp. angustifolium",1916
 "N","Cyperaceae","Eriophorum",36,176,"G","Eriophorum gracile","slender cottongrass","Eriophorum gracile",1917
@@ -965,11 +965,11 @@
 "N","Asteraceae","Eutrochium",5,23,"H","Eupatorium purpureum var. holzingeri","sweet-scented Joe pye weed","Eutrochium purpureum var. holzingeri",1964
 "N","Asteraceae","Eutrochium",5,23,"H","Eupatorium maculatum var. foliosum","spotted Joe pye weed","Eutrochium maculatum var. foliosum",1965
 "I","Polygonaceae","Fagopyrum",116,829,"H","Fagopyrum esculentum","buckwheat","Fagopyrum esculentum",1966
-"N","Polygonaceae","Fallopia",116,NA,"H","Polygonum cilinode","fringed black-bindweed","Fallopia cilinodis",1967
-"I","Polygonaceae","Fallopia",116,NA,"H","Polygonum cuspidatum","Japanese knotweed","Fallopia japonica var. japonica",1968
-"N","Polygonaceae","Fallopia",116,NA,"H","Polygonum scandens var. scandens","false buckwheat","Fallopia scandens",1969
-"I","Polygonaceae","Fallopia",116,NA,"H","","bohemian knotweed","Fallopia xbohemica",1970
-"I","Polygonaceae","Fallopia",116,NA,"H","Polygonum convolvulus","black-bindweed","Fallopia convolvulus",1971
+"N","Polygonaceae","Fallopia",116,2024,"H","Polygonum cilinode","fringed black-bindweed","Fallopia cilinodis",1967
+"I","Polygonaceae","Fallopia",116,2024,"H","Polygonum cuspidatum","Japanese knotweed","Fallopia japonica var. japonica",1968
+"N","Polygonaceae","Fallopia",116,2024,"H","Polygonum scandens var. scandens","false buckwheat","Fallopia scandens",1969
+"I","Polygonaceae","Fallopia",116,2024,"H","","bohemian knotweed","Fallopia xbohemica",1970
+"I","Polygonaceae","Fallopia",116,2024,"H","Polygonum convolvulus","black-bindweed","Fallopia convolvulus",1971
 "I","Poaceae","Festuca",14,56,"G","Festuca rubra","chewing fescue","Festuca rubra subsp. fallax",1972
 "I","Poaceae","Festuca",14,56,"G","Festuca rubra","red fescue","Festuca rubra subsp. rubra",1973
 "N","Poaceae","Festuca",14,56,"G","Festuca brachyphylla var. rydbergii, Festuca ovina","mountain fescue","Festuca saximontana var. saximontana",1974
@@ -1027,7 +1027,7 @@
 "N","Gentianaceae","Gentianopsis",33,474,"H","","Macoun's fringed gentian","Gentianopsis virgata subsp. macounii",2026
 "N","Gentianaceae","Gentianopsis",33,474,"H","Gentianopsis procera","narrow-leaved fringed gentian","Gentianopsis virgata subsp. virgata",2027
 "N","Gentianaceae","Gentianopsis",33,474,"H","Gentianopsis crinita","greater fringed gentian","Gentianopsis crinita",2028
-"N","Comandraceae","Geocaulon",603,NA,"H","Geocaulon lividum","northern comandra","Geocaulon lividum",2029
+"N","Comandraceae","Geocaulon",603,2025,"H","Geocaulon lividum","northern comandra","Geocaulon lividum",2029
 "N","Geraniaceae","Geranium",76,371,"H","Geranium carolinianum","Carolina cranesbill","Geranium carolinianum",2030
 "N","Geraniaceae","Geranium",76,371,"H","Geranium maculatum","wild geranium","Geranium maculatum",2031
 "I","Geraniaceae","Geranium",76,371,"H","Geranium sibiricum","Siberian cranesbill","Geranium sibiricum",2032
@@ -1113,7 +1113,7 @@
 "N","Asteraceae","Hieracium",5,29,"H","Hieracium floribundum","smooth king-devil","Hieracium xfloribundum",2112
 "N","Asteraceae","Hieracium",5,29,"H","Hieracium scabrum","sticky hawkweed","Hieracium scabrum",2113
 "N","Hippuridaceae","Hippuris",155,862,"H,S","Hippuris vulgaris","mare's tail","Hippuris vulgaris",2114
-"N","Dryopteridaceae","Homalosorus",32,NA,"H","Athyrium pycnocarpon","narrow-leaved glade fern","Homalosorus pycnocarpos",2115
+"N","Dryopteridaceae","Homalosorus",32,2026,"H","Athyrium pycnocarpon","narrow-leaved glade fern","Homalosorus pycnocarpos",2115
 "N","Poaceae","Hordeum",14,545,"G","Hordeum pusillum","little barley","Hordeum pusillum",2116
 "I","Poaceae","Hordeum",14,545,"G","Hordeum vulgare","common barley","Hordeum vulgare subsp. vulgare",2117
 "N","Poaceae","Hordeum",14,545,"G","Hordeum jubatum","foxtail barley","Hordeum jubatum subsp. jubatum",2118
@@ -1195,9 +1195,9 @@
 "N","Cupressaceae","Juniperus",87,63,"E","Juniperus communis var. depressa","bush juniper","Juniperus communis var. depressa",2194
 "N","Cupressaceae","Juniperus",87,63,"E","Juniperus horizontalis","creeping juniper","Juniperus horizontalis",2195
 "N","Cupressaceae","Juniperus",87,63,"E","Juniperus virginiana var. virginiana","eastern red cedar","Juniperus virginiana var. virginiana",2196
-"N","Ericaceae","Kalmia",22,NA,"B","Kalmia polifolia","bog laurel","Kalmia polifolia",2197
+"N","Ericaceae","Kalmia",22,2027,"B","Kalmia polifolia","bog laurel","Kalmia polifolia",2197
 "I","Dipsacaceae","Knautia",64,885,"H","Knautia arvensis","bluebuttons","Knautia arvensis",2198
-"I","Amaranthaceae","Kochia",20,NA,"H","Kochia scoparia","summer cypress","Kochia scoparia subsp. scoparia",2199
+"I","Amaranthaceae","Kochia",20,2028,"H","Kochia scoparia","summer cypress","Kochia scoparia subsp. scoparia",2199
 "N","Poaceae","Koeleria",14,432,"G","Koeleria pyramidata","junegrass","Koeleria macrantha",2200
 "N","Asteraceae","Krigia",5,433,"H","Krigia biflora","orange dwarfdandelion","Krigia biflora",2201
 "N","Asteraceae","Lactuca",5,325,"H","Lactuca biennis","biennial blue lettuce","Lactuca biennis",2202
@@ -1242,11 +1242,11 @@
 "I","Fabaceae","Lespedeza",21,307,"H","Lespedeza cuneata","sericea lespedeza","Lespedeza cuneata",2241
 "N","Fabaceae","Lespedeza",21,307,"H","Lespedeza leptostachya","prairie bush clover","Lespedeza leptostachya",2242
 "N","Fabaceae","Lespedeza",21,307,"H","Lespedeza capitata","round-headed bush clover","Lespedeza capitata",2243
-"I","Asteraceae","Leucanthemella",5,NA,"H","","giant daisy","Leucanthemella serotina",2244
+"I","Asteraceae","Leucanthemella",5,2029,"H","","giant daisy","Leucanthemella serotina",2244
 "I","Asteraceae","Leucanthemum",5,291,"H","Chrysanthemum leucanthemum","ox-eye daisy","Leucanthemum vulgare",2245
-"N","Solanaceae","Leucophysalis",110,NA,"H","Leucophysalis grandiflora","dwarf ground cherry","Leucophysalis grandiflora",2246
+"N","Solanaceae","Leucophysalis",110,2030,"H","Leucophysalis grandiflora","dwarf ground cherry","Leucophysalis grandiflora",2246
 "N","Scrophulariaceae","Leucospora",11,898,"H","Leucospora multifida","narrowleaf paleseed","Leucospora multifida",2247
-"I","Apiaceae","Levisticum",9,NA,"H","","lovage","Levisticum officinale",2248
+"I","Apiaceae","Levisticum",9,2031,"H","","lovage","Levisticum officinale",2248
 "N","Asteraceae","Liatris",5,62,"H","Liatris aspera","rough blazing star","Liatris aspera",2249
 "N","Asteraceae","Liatris",5,62,"H","Liatris ligulistylis","northern plains blazing star","Liatris ligulistylis",2250
 "N","Asteraceae","Liatris",5,62,"H","Liatris punctata","dotted blazing star","Liatris punctata var. punctata",2251
@@ -1255,7 +1255,7 @@
 "N","Liliaceae","Lilium",16,300,"H","Lilium michiganense","Michigan lily","Lilium michiganense",2254
 "N","Liliaceae","Lilium",16,300,"H","Lilium philadelphicum var. andinum","wood lily","Lilium philadelphicum",2255
 "I","Liliaceae","Lilium",16,300,"H","Lilium lancifolium","tiger lily","Lilium lancifolium",2256
-"N","Scrophulariaceae","Limosella",11,NA,"H","Limosella aquatica","mudwort","Limosella aquatica",2257
+"N","Scrophulariaceae","Limosella",11,2032,"H","Limosella aquatica","mudwort","Limosella aquatica",2257
 "I","Scrophulariaceae","Linaria",11,548,"H","Linaria vulgaris","butter-and-eggs","Linaria vulgaris",2258
 "I","Scrophulariaceae","Linaria",11,548,"H","","dalmatian toadflax","Linaria dalmatica subsp. dalmatica	",2259
 "N","Scrophulariaceae","Lindernia",11,301,"H","Lindernia dubia, Lindernia dubia var. anagallidea, Lindernia dubia var. dubia","yellow-seeded false pimpernel","Lindernia dubia",2260
@@ -1269,14 +1269,14 @@
 "N","Linaceae","Linum",91,302,"H","Linum sulcatum","grooved yellow flax","Linum sulcatum",2268
 "N","Orchidaceae","Liparis",23,303,"H","Liparis liliifolia","lily-leaved twayblade","Liparis liliifolia",2269
 "N","Orchidaceae","Liparis",23,303,"H","Liparis loeselii","Loesel's twayblade","Liparis loeselii",2270
-"N","Orchidaceae","Listera",23,NA,"H","Listera convallarioides","broad-leaved twayblade","Listera convallarioides",2271
-"N","Orchidaceae","Listera",23,NA,"H","Listera cordata","heart-leaved twayblade","Listera cordata var. cordata",2272
-"N","Orchidaceae","Listera",23,NA,"H","Listera auriculata","auricled twayblade","Listera auriculata",2273
+"N","Orchidaceae","Listera",23,2033,"H","Listera convallarioides","broad-leaved twayblade","Listera convallarioides",2271
+"N","Orchidaceae","Listera",23,2033,"H","Listera cordata","heart-leaved twayblade","Listera cordata var. cordata",2272
+"N","Orchidaceae","Listera",23,2033,"H","Listera auriculata","auricled twayblade","Listera auriculata",2273
 "N","Boraginaceae","Lithospermum",60,78,"H","Lithospermum caroliniense var. croceum","hairy puccoon","Lithospermum caroliniense var. croceum",2274
 "N","Boraginaceae","Lithospermum",60,78,"H","Lithospermum incisum","narrow-leaved puccoon","Lithospermum incisum",2275
 "N","Boraginaceae","Lithospermum",60,78,"H","Lithospermum latifolium","American gromwell","Lithospermum latifolium",2276
 "N","Boraginaceae","Lithospermum",60,78,"H","Lithospermum canescens","hoary puccoon","Lithospermum canescens",2277
-"N","Plantaginaceae","Littorella",112,NA,"H,S","Littorella uniflora var. americana","American shore plantain","Littorella americana",2278
+"N","Plantaginaceae","Littorella",112,2034,"H,S","Littorella uniflora var. americana","American shore plantain","Littorella americana",2278
 "N","Campanulaceae","Lobelia",41,305,"H,S","Lobelia dortmanna","water lobelia","Lobelia dortmanna",2279
 "N","Campanulaceae","Lobelia",41,305,"H","Lobelia inflata","Indian tobacco","Lobelia inflata",2280
 "N","Campanulaceae","Lobelia",41,305,"H","Lobelia kalmii","Kalm's lobelia","Lobelia kalmii",2281
@@ -1288,10 +1288,10 @@
 "N","Campanulaceae","Lobelia",41,305,"H","Lobelia spicata var. spicata","rough-spiked lobelia","Lobelia spicata var. spicata",2287
 "N","Campanulaceae","Lobelia",41,305,"H","Lobelia spicata var. hirtella","rough-spiked lobelia","Lobelia spicata var. hirtella",2288
 "I","Brassicaceae","Lobularia",18,904,"H","Lobularia maritima","sweet alyssum","Lobularia maritima",2289
-"I","Asteraceae","Logfia",5,NA,"H","Filago arvensis","field cotton rose","Logfia arvensis",2290
+"I","Asteraceae","Logfia",5,2035,"H","Filago arvensis","field cotton rose","Logfia arvensis",2290
 "I","Poaceae","Lolium",14,549,"G","","Italian ryegrass","Lolium multiflorum",2291
 "I","Poaceae","Lolium",14,549,"G","Lolium perenne, Lolium perenne var. aristatum, Lolium perenne var. perenne","English rye grass","Lolium perenne",2292
-"N","Apiaceae","Lomatium",9,NA,"H","Lomatium orientale","desert parsley","Lomatium orientale",2293
+"N","Apiaceae","Lomatium",9,2036,"H","Lomatium orientale","desert parsley","Lomatium orientale",2293
 "N","Caprifoliaceae","Lonicera",62,179,"D","Lonicera caerulea var. villosa","mountain fly honeysuckle","Lonicera caerulea var. villosa",2294
 "N","Caprifoliaceae","Lonicera",62,179,"D","Lonicera canadensis","fly honeysuckle","Lonicera canadensis",2295
 "N","Caprifoliaceae","Lonicera",62,179,"C","Lonicera dioica var. dioica","wild honeysuckle","Lonicera dioica var. dioica",2296
@@ -1321,7 +1321,7 @@
 "N","Lamiaceae","Lycopus",12,452,"H","Lycopus virginicus","Virginia bugleweed","Lycopus virginicus",2320
 "N","Lamiaceae","Lycopus",12,452,"H","Lycopus xsherardii","Sherard's bugleweed","Lycopus xsherardii",2321
 "N","Lamiaceae","Lycopus",12,452,"H","Lycopus asper","rough bugleweed","Lycopus asper",2322
-"N","Asteraceae","Lygodesmia",5,NA,"H","Lygodesmia juncea","skeletonweed","Lygodesmia juncea",2323
+"N","Asteraceae","Lygodesmia",5,2037,"H","Lygodesmia juncea","skeletonweed","Lygodesmia juncea",2323
 "N","Primulaceae","Lysimachia",66,283,"H","Lysimachia ciliata","fringed loosestrife","Lysimachia ciliata",2324
 "N","Primulaceae","Lysimachia",66,283,"H","Lysimachia hybrida","hybrid loosestrife","Lysimachia hybrida",2325
 "N","Primulaceae","Lysimachia",66,283,"H","","lance-leaved loosestrife","Lysimachia lanceolata",2326
@@ -1335,7 +1335,7 @@
 "N","Primulaceae","Lysimachia",66,283,"H","Glaux maritima","sea milkwort","Lysimachia maritima",2334
 "N","Lythraceae","Lythrum",61,401,"H","Lythrum alatum var. alatum","winged loosesrtife","Lythrum alatum var. alatum",2335
 "I","Lythraceae","Lythrum",61,401,"H","Lythrum salicaria","purple loosestrife","Lythrum salicaria",2336
-"I","Asteraceae","Madia",5,NA,"H","Madia glomerata","tarweed","Madia glomerata",2337
+"I","Asteraceae","Madia",5,2038,"H","Madia glomerata","tarweed","Madia glomerata",2337
 "N","Liliaceae","Maianthemum",16,79,"H","Maianthemum canadense, Maianthemum canadense var. canadense, Maianthemum canadense var. interius","Canada mayflower","Maianthemum canadense",2338
 "N","Liliaceae","Maianthemum",16,79,"H","Smilacina racemosa","common false Solomon's seal","Maianthemum racemosum subsp. racemosum",2339
 "N","Liliaceae","Maianthemum",16,79,"H","Smilacina trifolia","three-leaved false Solomon's seal","Maianthemum trifolium",2340
@@ -1387,11 +1387,11 @@
 "N","Lamiaceae","Monarda",12,239,"H","Monarda fistulosa var. menthaefolia","wild bergamot","Monarda fistulosa var. menthaefolia",2386
 "N","Lamiaceae","Monarda",12,239,"H","Monarda punctata var. villicaulis","spotted horsemint","Monarda punctata var. villicaulis",2387
 "N","Lamiaceae","Monarda",12,239,"H","Monarda fistulosa","wild bergamot","Monarda fistulosa",2388
-"N","Ericaceae","Moneses",22,NA,"H","Moneses uniflora","one-flowered pyrola","Moneses uniflora",2389
+"N","Ericaceae","Moneses",22,2039,"H","Moneses uniflora","one-flowered pyrola","Moneses uniflora",2389
 "N","Chenopodiaceae","Monolepis",49,940,"H","Monolepis nuttalliana","povertyweed","Monolepis nuttalliana",2390
 "N","Monotropaceae","Monotropa",99,467,"H","Monotropa hypopithys","pinesap","Monotropa hypopitys",2391
 "N","Monotropaceae","Monotropa",99,467,"H","Monotropa uniflora","Indian pipe","Monotropa uniflora",2392
-"N","Portulacaceae","Montia",51,NA,"H","Montia chamissoi","montia","Montia chamissoi",2393
+"N","Portulacaceae","Montia",51,2040,"H","Montia chamissoi","montia","Montia chamissoi",2393
 "N","Moraceae","Morus",95,49,"D","Morus rubra","red mulberry","Morus rubra",2394
 "I","Moraceae","Morus",95,49,"D","Morus alba","white mulberry","Morus alba",2395
 "N","Poaceae","Muhlenbergia",14,336,"G","Muhlenbergia cuspidata","Plains muhly","Muhlenbergia cuspidata",2396
@@ -1406,7 +1406,7 @@
 "N","Poaceae","Muhlenbergia",14,336,"G","Muhlenbergia sylvatica","woodland muhly grass","Muhlenbergia sylvatica",2405
 "N","Poaceae","Muhlenbergia",14,336,"G","Muhlenbergia uniflora","one-flowered muhly","Muhlenbergia uniflora",2406
 "N","Poaceae","Muhlenbergia",14,336,"G","Muhlenbergia richardsonis","mat muhly grass","Muhlenbergia richardsonis",2407
-"N","Asteraceae","Mulgedium",5,NA,"H","Lactuca pulchella","beautiful blue lettuce","Mulgedium pulchellum",2408
+"N","Asteraceae","Mulgedium",5,2041,"H","Lactuca pulchella","beautiful blue lettuce","Mulgedium pulchellum",2408
 "N","Boraginaceae","Myosotis",60,552,"H","Myosotis laxa","smaller forget-me-not","Myosotis laxa",2409
 "I","Boraginaceae","Myosotis",60,552,"H","Myosotis scorpioides","true forget-me-not","Myosotis scorpioides",2410
 "I","Boraginaceae","Myosotis",60,552,"H","Myosotis sylvatica","woodland forget-me-not","Myosotis sylvatica",2411
@@ -1414,7 +1414,7 @@
 "N","Boraginaceae","Myosotis",60,552,"H","Myosotis verna","Virginia forget-me-not","Myosotis verna",2413
 "I","Caryophyllaceae","Myosoton",26,553,"H","Stellaria aquatica","giant chickweed","Myosoton aquaticum",2414
 "N","Ranunculaceae","Myosurus",7,941,"H","Myosurus minimus","mousetail","Myosurus minimus",2415
-"N","Myricaceae","Myrica",54,NA,"D","Myrica gale","sweet gale","Myrica gale",2416
+"N","Myricaceae","Myrica",54,2042,"D","Myrica gale","sweet gale","Myrica gale",2416
 "N","Haloragaceae","Myriophyllum",100,153,"H,S","Myriophyllum farwellii","Farwell's water milfoil","Myriophyllum farwellii",2417
 "N","Haloragaceae","Myriophyllum",100,153,"H,S","Myriophyllum heterophyllum","broadleaf water milfoil","Myriophyllum heterophyllum",2418
 "U","Haloragaceae","Myriophyllum",100,153,"H,S","","cutleaf watermilfoil","Myriophyllum pinnatum",2419
@@ -1436,7 +1436,7 @@
 "I","Brassicaceae","Nasturtium",18,555,"H","Rorippa nasturtium-aquaticum","small-leaved water cress","Nasturtium officinale",2435
 "I","Brassicaceae","Nasturtium",18,555,"H","Rorippa nasturtium-aquaticum","one-row yellowcress","Nasturtium microphyllum",2436
 "N","Nelumbonaceae","Nelumbo",164,946,"H","Nelumbo lutea","American lotus","Nelumbo lutea",2437
-"N","Aquifoliaceae","Nemopanthus",83,NA,"D","Nemopanthus mucronatus","swamp holly","Nemopanthus mucronatus",2438
+"N","Aquifoliaceae","Nemopanthus",83,2043,"D","Nemopanthus mucronatus","swamp holly","Nemopanthus mucronatus",2438
 "I","Lamiaceae","Nepeta",12,112,"H","Nepeta cataria","catnip","Nepeta cataria",2439
 "I","Brassicaceae","Neslia",18,948,"H","Neslia paniculata","ball mustard","Neslia paniculata",2440
 "N","Asteraceae","Nothocalais",5,952,"H","Microseris cuspidata","prairie false dandelion","Nothocalais cuspidata",2441
@@ -1448,7 +1448,7 @@
 "N","Nymphaeaceae","Nymphaea",101,155,"F,H","Nymphaea odorata s.l.","American white waterlily","Nymphaea odorata",2447
 "N","Nymphaeaceae","Nymphaea",101,155,"F,H","","American white waterlily","Nymphaea odorata subsp. tuberosa",2448
 "N","Nymphaeaceae","Nymphaea",101,155,"F,H","Nymphaea odorata var. odorata","American white waterlily","Nymphaea odorata subsp. odorata",2449
-"I","Orobanchaceae","Odontites",55,NA,"H","","red bartsia","Odontites vulgaris",2450
+"I","Orobanchaceae","Odontites",55,2044,"H","","red bartsia","Odontites vulgaris",2450
 "N","Onagraceae","Oenothera",39,156,"H","Oenothera biennis s.s., Oenothera biennis var. biennis","common evening primrose","Oenothera biennis",2451
 "N","Onagraceae","Oenothera",39,156,"H","Oenothera clelandii","Cleland's evening primrose","Oenothera clelandii",2452
 "N","Onagraceae","Oenothera",39,156,"H","Gaura biennis, Gaura biennis var. biennis","biennial gaura","Oenothera gaura",2453
@@ -1476,7 +1476,7 @@
 "N","Orobanchaceae","Orobanche",55,278,"H","","one-flowered broomrape","Orobanche uniflora subsp. uniflora",2475
 "N","Orobanchaceae","Orobanche",55,278,"H","Orobanche fasciculata","clustered broomrape","Orobanche fasciculata",2476
 "N","Pyrolaceae","Orthilia",50,963,"H","Pyrola secunda","one-sided pyrola","Orthilia secunda",2477
-"N","Orobanchaceae","Orthocarpus",55,NA,"H","Orthocarpus luteus","owl clover","Orthocarpus luteus",2478
+"N","Orobanchaceae","Orthocarpus",55,2045,"H","Orthocarpus luteus","owl clover","Orthocarpus luteus",2478
 "N","Poaceae","Oryzopsis",14,248,"G","Oryzopsis asperifolia","mountain ricegrass","Oryzopsis asperifolia",2479
 "N","Apiaceae","Osmorhiza",9,253,"H","Osmorhiza claytonii","Clayton's sweet cicely","Osmorhiza claytonii",2480
 "N","Apiaceae","Osmorhiza",9,253,"H","Osmorhiza depauperata","blunt-fruited sweet cicely","Osmorhiza depauperata",2481
@@ -1490,9 +1490,9 @@
 "N","Oxalidaceae","Oxalis",104,54,"H","Oxalis violacea","violet wood-sorrel","Oxalis violacea",2489
 "N","Oxalidaceae","Oxalis",104,54,"H","Oxalis acetosella","white wood-sorrel","Oxalis montana",2490
 "N","Apiaceae","Oxypolis",9,606,"H","Oxypolis rigidior","cowbane","Oxypolis rigidior",2491
-"N","Fabaceae","Oxytropis",21,NA,"H","Oxytropis viscida","sticky locoweed","Oxytropis borealis var. viscida",2492
-"N","Fabaceae","Oxytropis",21,NA,"H","Oxytropis lambertii var. lambertii","Lambert's locoweed","Oxytropis lambertii var. lambertii",2493
-"N","Fabaceae","Oxytropis",21,NA,"H","Oxytropis campestris var. chartacea","field locoweed","Oxytropis campestris var. dispar",2494
+"N","Fabaceae","Oxytropis",21,2046,"H","Oxytropis viscida","sticky locoweed","Oxytropis borealis var. viscida",2492
+"N","Fabaceae","Oxytropis",21,2046,"H","Oxytropis lambertii var. lambertii","Lambert's locoweed","Oxytropis lambertii var. lambertii",2493
+"N","Fabaceae","Oxytropis",21,2046,"H","Oxytropis campestris var. chartacea","field locoweed","Oxytropis campestris var. dispar",2494
 "N","Asteraceae","Packera",5,25,"H","Senecio aureus","golden ragwort","Packera aurea",2495
 "N","Asteraceae","Packera",5,25,"H","Senecio canus","gray ragwort","Packera cana",2496
 "N","Asteraceae","Packera",5,25,"H","Senecio pauperculus","balsam ragwort","Packera paupercula",2497
@@ -1533,7 +1533,7 @@
 "N","Scrophulariaceae","Penstemon",11,263,"H","Penstemon pallidus","pale beard tongue","Penstemon pallidus",2532
 "N","Scrophulariaceae","Penstemon",11,263,"H","Penstemon albidus","white beard tongue","Penstemon albidus",2533
 "N","Crassulaceae","Penthorum",107,264,"H","Penthorum sedoides","ditch stonecrop","Penthorum sedoides",2534
-"I","Cleomaceae","Peritoma",601,NA,"H","Cleome serrulata","spider-flower","Peritoma serrulata",2535
+"I","Cleomaceae","Peritoma",601,2047,"H","Cleome serrulata","spider-flower","Peritoma serrulata",2535
 "N","Polygonaceae","Persicaria",116,219,"F,H","Polygonum amphibium, Polygonum amphibium var. emersum, Polygonum amphibium var. stipulaceum","water smartweed","Persicaria amphibia",2536
 "N","Polygonaceae","Persicaria",116,219,"H","Polygonum amphibium var. emersum","longroot smartweed","Persicaria amphibia var. emersa",2537
 "N","Polygonaceae","Persicaria",116,219,"H","Polygonum arifolium","halberd-leaved tearthumb","Persicaria arifolia",2538
@@ -1589,8 +1589,8 @@
 "N","Pinaceae","Picea",88,71,"E","Picea glauca","white spruce","Picea glauca",2588
 "N","Urticaceae","Pilea",35,561,"H","Pilea fontana","black-fruited clearweed","Pilea fontana",2589
 "N","Urticaceae","Pilea",35,561,"H","Pilea pumila","dwarf clearweed","Pilea pumila",2590
-"I","Apiaceae","Pimpinella",9,NA,"H","Pimpinella saxifraga","solidstem burnet saxifrage","Pimpinella saxifraga subsp. saxifraga",2591
-"N","Lentibulariaceae","Pinguicula",139,NA,"H","Pinguicula vulgaris","butterwort","Pinguicula vulgaris",2592
+"I","Apiaceae","Pimpinella",9,2048,"H","Pimpinella saxifraga","solidstem burnet saxifrage","Pimpinella saxifraga subsp. saxifraga",2591
+"N","Lentibulariaceae","Pinguicula",139,2049,"H","Pinguicula vulgaris","butterwort","Pinguicula vulgaris",2592
 "N","Pinaceae","Pinus",88,249,"E","Pinus banksiana","jack pine","Pinus banksiana",2593
 "N","Pinaceae","Pinus",88,249,"E","Pinus resinosa","red pine","Pinus resinosa",2594
 "I","Pinaceae","Pinus",88,249,"E","Pinus sylvestris","scotch pine","Pinus sylvestris",2595
@@ -1654,7 +1654,7 @@
 "N","Polygalaceae","Polygala",115,419,"H","Polygala senega","Seneca snakeroot","Polygala senega",2653
 "N","Polygalaceae","Polygala",115,419,"H","Polygala verticillata, Polygala verticillata var. isocycla","whorled milkwort","Polygala verticillata",2654
 "N","Polygalaceae","Polygala",115,419,"H","Polygala cruciata","cross-leaved milkwort","Polygala cruciata",2655
-"N","Polygalaceae","Polygaloides",115,NA,"H","Polygala paucifolia","gaywings","Polygaloides paucifolia",2656
+"N","Polygalaceae","Polygaloides",115,2050,"H","Polygala paucifolia","gaywings","Polygaloides paucifolia",2656
 "N","Liliaceae","Polygonatum",16,2,"H","Polygonatum biflorum","giant Solomon's seal","Polygonatum biflorum",2657
 "N","Liliaceae","Polygonatum",16,2,"H","Polygonatum pubescens","hairy Solomon's seal","Polygonatum pubescens",2658
 "N","Polygonaceae","Polygonella",116,995,"H","Polygonella articulata","coast jointweed","Polygonella articulata",2659
@@ -1728,7 +1728,7 @@
 "N","Asteraceae","Prenanthes",5,442,"H","Prenanthes racemosa, Prenanthes racemosa var. multiflora, Prenanthes racemosa var. racemosa","smooth rattlesnakeroot","Prenanthes racemosa",2727
 "N","Asteraceae","Prenanthes",5,442,"H","Prenanthes crepidinea","nodding rattlesnakeroot","Prenanthes crepidinea",2728
 "N","Primulaceae","Primula",66,656,"H","Primula mistassinica","Mistassini primrose","Primula mistassinica",2729
-"N","Liliaceae","Prosartes",16,NA,"H","Disporum trachycarpum","rough-fruited fairybells","Prosartes trachycarpa",2730
+"N","Liliaceae","Prosartes",16,2051,"H","Disporum trachycarpum","rough-fruited fairybells","Prosartes trachycarpa",2730
 "I","Lamiaceae","Prunella",12,341,"H","Prunella vulgaris var. lanceolata","heal-all","Prunella vulgaris var. lanceolata",2731
 "I","Lamiaceae","Prunella",12,341,"H","Prunella vulgaris var. vulgaris","heal-all","Prunella vulgaris var. vulgaris",2732
 "I","Lamiaceae","Prunella",12,341,"H","Prunella vulgaris","heal-all","Prunella vulgaris",2733
@@ -1795,7 +1795,7 @@
 "N","Asteraceae","Ratibida",5,444,"H","Ratibida pinnata","gray-headed coneflower","Ratibida pinnata",2794
 "N","Rhamnaceae","Rhamnus",44,234,"D","Rhamnus alnifolia","alderleaf buckthorn","Rhamnus alnifolia",2795
 "I","Rhamnaceae","Rhamnus",44,234,"D","Rhamnus cathartica","common buckthorn","Rhamnus cathartica",2796
-"N","Crassulaceae","Rhodiola",107,NA,"H","Sedum rosea var. integrifolium","Leedy's roseroot","Rhodiola integrifolia subsp. leedyi",2797
+"N","Crassulaceae","Rhodiola",107,2052,"H","Sedum rosea var. integrifolium","Leedy's roseroot","Rhodiola integrifolia subsp. leedyi",2797
 "N","Ericaceae","Rhododendron",22,639,"B","Ledum groenlandicum","Labrador tea","Rhododendron groenlandicum",2798
 "N","Anacardiaceae","Rhus",124,30,"D","Rhus glabra","smooth sumac","Rhus glabra",2799
 "N","Anacardiaceae","Rhus",124,30,"D","Rhus typhina","staghorn sumac","Rhus typhina",2800
@@ -1980,7 +1980,7 @@
 "I","Caryophyllaceae","Scleranthus",26,1025,"H","Scleranthus annuus","knawel","Scleranthus annuus subsp. annuus",2979
 "N","Cyperaceae","Scleria",36,224,"G","Scleria triglomerata","tall nutrush","Scleria triglomerata",2980
 "N","Cyperaceae","Scleria",36,224,"G","Scleria verticillata","whorled nutrush","Scleria verticillata",2981
-"N","Poaceae","Scolochloa",14,NA,"G","Scolochloa festucacea","whitetop","Scolochloa festucacea",2982
+"N","Poaceae","Scolochloa",14,2053,"G","Scolochloa festucacea","whitetop","Scolochloa festucacea",2982
 "N","Scrophulariaceae","Scrophularia",11,170,"H","Scrophularia lanceolata","lance-leaved figwort","Scrophularia lanceolata",2983
 "N","Scrophulariaceae","Scrophularia",11,170,"H","Scrophularia marilandica","Maryland figwort","Scrophularia marilandica",2984
 "N","Lamiaceae","Scutellaria",12,24,"H","Scutellaria galericulata","marsh skullcap","Scutellaria galericulata",2985
@@ -2006,7 +2006,7 @@
 "I","Poaceae","Setaria",14,61,"G","","yellow foxtail","Setaria pumila",3005
 "N","Elaeagnaceae","Shepherdia",69,455,"D","Shepherdia argentea","buffaloberry","Shepherdia argentea",3006
 "N","Elaeagnaceae","Shepherdia",69,455,"D","Shepherdia canadensis","soapberry","Shepherdia canadensis",3007
-"N","Asteraceae","Shinnersoseris",5,NA,"H","Lygodesmia rostrata","annual skeletonweed","Shinnersoseris rostrata",3008
+"N","Asteraceae","Shinnersoseris",5,2054,"H","Lygodesmia rostrata","annual skeletonweed","Shinnersoseris rostrata",3008
 "N","Rosaceae","Sibbaldiopsis",13,1031,"B","Potentilla tridentata","three-toothed cinquefoil","Sibbaldiopsis tridentata",3009
 "N","Cucurbitaceae","Sicyos",68,1032,"H","Sicyos angulatus","bur cucumber","Sicyos angulatus",3010
 "I","Caryophyllaceae","Silene",26,32,"H","Silene armeria","sweet William catchfly","Silene armeria",3011
@@ -2076,7 +2076,7 @@
 "I","Asteraceae","Sonchus",5,236,"H","Sonchus asper","spiny sow thistle","Sonchus asper",3075
 "I","Asteraceae","Sonchus",5,236,"H","Sonchus arvensis s.l.","field sow thistle","Sonchus arvensis",3076
 "I","Asteraceae","Sonchus",5,236,"H","Sonchus oleraceus","common sow thistle","Sonchus oleraceus",3077
-"I","Rosaceae","Sorbaria",13,NA,"D","Sorbaria sorbifolia","false spiraea","Sorbaria sorbifolia",3078
+"I","Rosaceae","Sorbaria",13,2055,"D","Sorbaria sorbifolia","false spiraea","Sorbaria sorbifolia",3078
 "N","Rosaceae","Sorbus",13,625,"D","Sorbus americana","American mountain ash","Sorbus americana",3079
 "I","Rosaceae","Sorbus",13,625,"D","Sorbus aucuparia","European mountain ash","Sorbus aucuparia",3080
 "N","Rosaceae","Sorbus",13,625,"D","Sorbus decora","showy mountain ash","Sorbus decora",3081
@@ -2097,8 +2097,8 @@
 "N","Malvaceae","Sphaeralcea",2,268,"H","Sphaeralcea coccinea","scarlet globemallow","Sphaeralcea coccinea var. coccinea",3096
 "N","Poaceae","Sphenopholis",14,217,"G","Sphenopholis obtusata s.l., Sphenopholis obtusata var. major","slender wedge grass","Sphenopholis intermedia",3097
 "N","Poaceae","Sphenopholis",14,217,"G","Sphenopholis obtusata s.l., Sphenopholis obtusata var. obtusata","prairie wedge grass","Sphenopholis obtusata",3098
-"N","Lycopodiaceae","Spinulum",94,NA,"H","Lycopodium annotinum","bristly clubmoss","Spinulum annotinum",3099
-"N","Lycopodiaceae","Spinulum",94,NA,"H","","northern bristly clubmoss","Spinulum canadense",3100
+"N","Lycopodiaceae","Spinulum",94,2056,"H","Lycopodium annotinum","bristly clubmoss","Spinulum annotinum",3099
+"N","Lycopodiaceae","Spinulum",94,2056,"H","","northern bristly clubmoss","Spinulum canadense",3100
 "N","Rosaceae","Spiraea",13,28,"D","Spiraea alba var. alba","white meadowsweet","Spiraea alba var. alba",3101
 "N","Rosaceae","Spiraea",13,28,"D","Spiraea tomentosa var. rosea","steeplebush","Spiraea tomentosa var. rosea",3102
 "N","Orchidaceae","Spiranthes",23,4,"H","Spiranthes casei","Case's ladies' tresses","Spiranthes casei var. casei",3103
@@ -2128,8 +2128,8 @@
 "N","Caryophyllaceae","Stellaria",26,457,"H","Stellaria longipes","long-stalked chickweed","Stellaria longipes subsp. longipes",3127
 "I","Caryophyllaceae","Stellaria",26,457,"H","Stellaria media","common chickweed","Stellaria media",3128
 "N","Caryophyllaceae","Stellaria",26,457,"H","Stellaria alsine","alsine chickweed","Stellaria alsine",3129
-"N","Liliaceae","Streptopus",16,NA,"H","Streptopus amplexifolius, Streptopus amplexifolius var. americanus, Streptopus amplexifolius var. denticulatus","clasping leaved twistedstalk","Streptopus amplexifolius",3130
-"N","Liliaceae","Streptopus",16,NA,"H","Streptopus roseus, Streptopus roseus var. longipes","rose twistedstalk","Streptopus lanceolatus",3131
+"N","Liliaceae","Streptopus",16,2057,"H","Streptopus amplexifolius, Streptopus amplexifolius var. americanus, Streptopus amplexifolius var. denticulatus","clasping leaved twistedstalk","Streptopus amplexifolius",3130
+"N","Liliaceae","Streptopus",16,2057,"H","Streptopus roseus, Streptopus roseus var. longipes","rose twistedstalk","Streptopus lanceolatus",3131
 "N","Fabaceae","Strophostyles",21,510,"H","Strophostyles leiosperma","slickseed fuzzy bean","Strophostyles leiosperma",3132
 "N","Fabaceae","Strophostyles",21,510,"H","Strophostyles helvola","trailing fuzzy bean","Strophostyles helvola",3133
 "N","Potamogetonaceae","Stuckenia",120,1048,"H,S","Potamogeton filiformis","thread-leaved pondweed","Stuckenia filiformis",3134
@@ -2138,7 +2138,7 @@
 "N","Potamogetonaceae","Stuckenia",120,1048,"H,S","Potamogeton vaginatus","sheathed pondweed","Stuckenia vaginata",3137
 "N","Potamogetonaceae","Stuckenia",120,1048,"H,S","Potamogeton filiformis var. filiformis","thread-leaved pondweed","Stuckenia filiformis subsp. occidentalis",3138
 "N","Chenopodiaceae","Suaeda",49,1051,"H","Suaeda calceoliformis","sea-blite","Suaeda calceoliformis",3139
-"N","Brassicaceae","Subularia",18,NA,"H,S","Subularia aquatica var. americana","awlwort","Subularia aquatica subsp. americana",3140
+"N","Brassicaceae","Subularia",18,2058,"H,S","Subularia aquatica var. americana","awlwort","Subularia aquatica subsp. americana",3140
 "N","Saxifragaceae","Sullivantia",80,1052,"H","Sullivantia renifolia","reniform sullivantia","Sullivantia sullivantii",3141
 "N","Caprifoliaceae","Symphoricarpos",62,57,"D","Symphoricarpos albus","snowberry","Symphoricarpos albus",3142
 "N","Caprifoliaceae","Symphoricarpos",62,57,"D","Symphoricarpos occidentalis","wolfberry","Symphoricarpos occidentalis",3143
@@ -2185,7 +2185,7 @@
 "I","Asteraceae","Taraxacum",5,370,"H","Taraxacum laevigatum","red-seeded dandelion","Taraxacum erythrospermum",3184
 "I","Asteraceae","Taraxacum",5,370,"H","Taraxacum officinale","common dandelion","Taraxacum officinale",3185
 "N","Taxaceae","Taxus",175,1059,"E","Taxus canadensis","Canada yew","Taxus canadensis",3186
-"N","Asteraceae","Tephroseris",5,NA,"H","Senecio congestus","swamp ragwort","Tephroseris palustris",3187
+"N","Asteraceae","Tephroseris",5,2059,"H","Senecio congestus","swamp ragwort","Tephroseris palustris",3187
 "N","Fabaceae","Tephrosia",21,350,"H","Tephrosia virginiana","goat's rue","Tephrosia virginiana",3188
 "N","Lamiaceae","Teucrium",12,352,"H","Teucrium canadense var. occidentale","germander","Teucrium canadense var. occidentale",3189
 "N","Lamiaceae","Teucrium",12,352,"H","Teucrium canadense var. virginicum","germander","Teucrium canadense var. virginicum",3190
@@ -2243,8 +2243,8 @@
 "N","Caprifoliaceae","Triosteum",62,273,"H","Triosteum perfoliatum","late horse gentian","Triosteum perfoliatum",3242
 "N","Poaceae","Triplasis",14,298,"G","Triplasis purpurea","purple sandgrass","Triplasis purpurea var. purpurea",3243
 "I","Asteraceae","Tripleurospermum",5,1075,"H","Matricaria maritima","scentless false mayweed","Tripleurospermum inodorum",3244
-"N","Poaceae","Trisetum",14,NA,"G","Trisetum spicatum","spike trisetum","Trisetum spicatum",3245
-"N","Pinaceae","Tsuga",88,NA,"E","Tsuga canadensis","eastern hemlock","Tsuga canadensis",3246
+"N","Poaceae","Trisetum",14,2060,"G","Trisetum spicatum","spike trisetum","Trisetum spicatum",3245
+"N","Pinaceae","Tsuga",88,2061,"E","Tsuga canadensis","eastern hemlock","Tsuga canadensis",3246
 "N","Brassicaceae","Turritis",18,624,"H","Arabis glabra","tower mustard","Turritis glabra",3247
 "I","Typhaceae","Typha",138,216,"H","Typha angustifolia","narrow-leaved cattail","Typha angustifolia",3248
 "I","Typhaceae","Typha",138,216,"H","Typha xglauca","hybrid cattail","Typha xglauca",3249
@@ -2359,7 +2359,7 @@
 "N","Dryopteridaceae","Woodsia",32,519,"H","Woodsia obtusa","blunt-lobed cliff fern","Woodsia obtusa subsp. obtusa",3358
 "N","Dryopteridaceae","Woodsia",32,519,"H","Woodsia xmaxonii","Maxon's woodsia","Woodsia xmaxonii",3359
 "N","Dryopteridaceae","Woodsia",32,519,"H","Woodsia xgracilis","slender woodsia","Woodsia xgracilis",3360
-"N","Asteraceae","Xanthisma",5,NA,"H","Haplopappus spinulosus","cutleaf ironplant","Xanthisma spinulosum var. spinulosum",3361
+"N","Asteraceae","Xanthisma",5,2062,"H","Haplopappus spinulosus","cutleaf ironplant","Xanthisma spinulosum var. spinulosum",3361
 "N","Asteraceae","Xanthium",5,77,"H","Xanthium strumarium, Xanthium strumarium var. canadense, Xanthium strumarium var. glabratum, Xanthium strumarium var. strumarium","cocklebur","Xanthium strumarium",3362
 "N","Xyridaceae","Xyris",141,448,"H","Xyris montana","montane yellow-eyed grass","Xyris montana",3363
 "N","Xyridaceae","Xyris",141,448,"H","Xyris torta","twisted yellow-eyed grass","Xyris torta",3364
