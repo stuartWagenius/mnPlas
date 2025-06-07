@@ -1,6 +1,11 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+#### 2025 June 07
+
+`mnPlas.csv` now has no NA values in `genusId` or `familyId` 
+`raw/genusFamilyImproved.csv` added genus_id to 72 records
+
 #### 2025 June 06
 
 added `occurrence.csv`
