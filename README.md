@@ -1,6 +1,21 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+#### 2025 June 06
+
+added `occurrence.csv`
+
+made first version of `mnPlas.csv` (same as `mnPlas20250606.csv`) 
+
+`raw/genusFamilyImproved.csv` families updated from wikipedia 
+and added family_id to three records:
+```
+genus_id      genus family_id        family
+      NA   Peritoma       601    Cleomaceae
+      NA Eriocaulon       602 Eriocaulaceae
+      NA  Geocaulon       603  Comandraceae
+```
+
 #### 2025 June 04
 
 `raw/genusFamilyImproved.csv` families updated from www.minnesotawildflowers.info (1153 records)
