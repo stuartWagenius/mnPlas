@@ -27,6 +27,6 @@ namz <- c("native", "family", "genus", "familyId", "genusId", "physiognomy", "sy
 
 
 # write.csv(pp[pp$family_id %in% 5, nama], "mnAsters20250603.csv", row.names = FALSE)
-# write.csv(pp[                 , namz],   "mnPlas20250606.csv", row.names = FALSE)
+# write.csv(pp[                 , namz],   "mnPlas20250607.csv", row.names = FALSE)
 # write.csv(pp[                 , namz],           "mnPlas.csv", row.names = FALSE)
 # write.csv(pp[pp$family_id %in% NA, c("genus", namz)], "mnProbs20250604.csv", row.names = FALSE)
