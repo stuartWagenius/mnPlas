@@ -1,10 +1,17 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+
 #### 2025 June 21
 
 `raw/plants20250621.csv` added from https://webapps15.dnr.state.mn.us/mntaxa/reports/index#
 includes only taxa from four counties: Douglas, Grant, Pope, Stevens
+
+updated occurrences.csv with all records in 4-county area: Douglas, Grant, Pope, Stevens
+
+added `site.csv` including sites from MnTaxa and from `echinaceaLab::siteNames()`
+
+added file `functions.R` that with function `listSpecies()` that returns a species list for any site, including the county lists.
 
 #### 2025 June 07
 
