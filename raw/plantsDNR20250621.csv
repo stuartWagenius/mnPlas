@@ -1,0 +1,914 @@
+Native Status,Physiognomy,MN DNR Official Name,Common Name,Emerging (New) Taxonomy,Gleason & Cronquist Synonym,doug,gran,pope,stev
+N,E,Abies balsamea,balsam fir,,Abies balsamea,doug,"","",""
+I,D,Acer ginnala,amur maple,,Acer ginnala,"","",pope,""
+N,D,Acer negundo,box elder,,Acer negundo,doug,gran,pope,stev
+N,D,Acer rubrum var. rubrum,red maple,,Acer rubrum,doug,"",pope,""
+N,D,Acer saccharinum,silver maple,,Acer saccharinum,doug,"",pope,""
+N,D,Acer saccharum,sugar maple,,Acer saccharum,doug,"",pope,""
+N,H,Achillea millefolium,common yarrow,,"Achillea millefolium, Achillea millefolium subsp. lanulosa, Achillea millefolium subsp. millefolium",doug,gran,pope,""
+N,H,Acmispon americanus var. americanus,prairie trefoil,,Lotus purshianus,"","","",stev
+N,H,Acorus americanus,sweet flag,,Acorus calamus,doug,gran,pope,""
+N,H,Actaea rubra,red baneberry,,Actaea rubra,doug,gran,pope,stev
+N,H,Agalinis aspera,rough false foxglove,,Agalinis aspera,doug,"",pope,stev
+N,H,Agalinis purpurea,purple false foxglove,,Agalinis purpurea s.l.,doug,"",pope,""
+N,H,Agalinis purpurea var. parviflora,purple false foxglove,,Agalinis purpurea var. parviflora,doug,"",pope,""
+N,H,Agalinis tenuifolia,slender-leaved false foxglove,,Agalinis tenuifolia,doug,"",pope,stev
+N,H,Agastache foeniculum,blue giant hyssop,,Agastache foeniculum,doug,gran,pope,""
+N,H,Agastache scrophulariaefolia,purple giant hyssop,,Agastache scrophulariaefolia,"","",pope,""
+N,H,Ageratina altissima var. altissima,white snakeroot,,Eupatorium rugosum var. rugosum,doug,"",pope,""
+N,H,Agoseris glauca var. glauca,glaucous false dandelion,,Agoseris glauca var. glauca,doug,"",pope,stev
+N,H,Agrimonia pubescens,downy agrimony,,Agrimonia pubescens,"","",pope,""
+N,H,Agrimonia striata,roadside agrimony,,Agrimonia striata,"",gran,pope,""
+I,G,Agrostis gigantea,redtop,,Agrostis gigantea,doug,gran,pope,""
+N,G,Agrostis perennans,autumn bentgrass,,Agrostis perennans,doug,"","",""
+N,G,Agrostis scabra,rough bentgrass,,Agrostis hyemalis var. scabra,doug,"",pope,""
+I,G,Agrostis stolonifera,spreading bentgrass,,"Agrostis stolonifera, Agrostis stolonifera var. palustris, Agrostis stolonifera var. stolonifera","","",pope,""
+N,"H,S",Alisma gramineum,narrow-leaved water plantain,,Alisma gramineum,doug,"",pope,stev
+N,H,Alisma subcordatum,heart-leaved water plantain,,Alisma subcordatum,"","","",stev
+N,H,Alisma triviale,common water plantain,,Alisma triviale,doug,"",pope,""
+N,H,Allium stellatum,prairie wild onion,,Allium stellatum,doug,gran,pope,stev
+N,H,Allium textile,white wild onion,,Allium textile,doug,"","",stev
+N,H,Allium tricoccum,wild leek,,Allium tricoccum s.l.,doug,gran,pope,""
+N,H,Allium tricoccum var. tricoccum,wild leek,,Allium tricoccum var. tricoccum,doug,gran,pope,""
+N,D,Alnus incana subsp. rugosa,speckled alder,,Alnus incana var. americana,doug,"","",""
+N,G,Alopecurus aequalis var. aequalis,short-awn foxtail,,,doug,gran,"",""
+N,H,Amaranthus albus,tumbleweed amaranth,,Amaranthus albus,"","","",stev
+I,H,Amaranthus blitoides,prostrate pigweed,,Amaranthus blitoides,doug,"",pope,stev
+I,H,Amaranthus hybridus,smooth pigweed,,Amaranthus hybridus,"",gran,"",""
+I,H,Amaranthus retroflexus var. retroflexus,redroot amaranth,,,"","","",stev
+N,H,Ambrosia artemisiifolia,common ragweed,,Ambrosia artemisiifolia,doug,gran,pope,stev
+N,H,Ambrosia psilostachya,western ragweed,,Ambrosia psilostachya,"","",pope,""
+N,H,Ambrosia trifida,great ragweed,,"Ambrosia trifida, Ambrosia trifida var. trifida","","",pope,stev
+N,D,Amelanchier alnifolia,saskatoon juneberry,,Amelanchier alnifolia,"","",pope,""
+N,D,Amelanchier humilis,low juneberry,,"Amelanchier sanguinea s.l., Amelanchier sanguinea var. sanguinea","","",pope,""
+N,D,Amelanchier sanguinea,round-leaved juneberry,,"Amelanchier sanguinea s.l., Amelanchier sanguinea var. sanguinea",doug,"","",""
+N,D,Amorpha canescens,leadplant,,Amorpha canescens,doug,gran,pope,stev
+N,D,Amorpha fruticosa,false indigo,,Amorpha fruticosa,doug,"",pope,""
+N,D,Amorpha nana,fragrant false indigo,,Amorpha nana,doug,gran,pope,""
+N,H,Amphicarpaea bracteata,hog peanut,,Amphicarpaea bracteata,doug,gran,pope,stev
+N,B,Andromeda polifolia var. latifolia,bog rosemary,,,doug,"","",""
+N,G,Andropogon gerardii,big bluestem,,Andropogon gerardii,doug,gran,pope,stev
+N,H,Androsace occidentalis,western androsace,,Androsace occidentalis,"","","",stev
+N,H,Anemone acutiloba,sharp-lobed hepatica,,Hepatica acutiloba,doug,"","",""
+N,H,Anemone americana,round-lobed hepatica,,Hepatica americana,doug,"","",""
+N,H,Anemone canadensis,canada anemone,,Anemone canadensis,doug,gran,pope,stev
+N,H,Anemone caroliniana,Carolina thimbleweed,,Anemone caroliniana,"",gran,"",stev
+N,H,Anemone cylindrica,long-headed thimbleweed,,Anemone cylindrica,doug,gran,pope,stev
+N,H,Anemone patens var. multifida,pasqueflower,,Anemone patens var. multifida,doug,gran,pope,stev
+N,H,Anemone quinquefolia var. quinquefolia,wood anemone,,Anemone quinquefolia var. quinquefolia,doug,"",pope,""
+N,H,Anemone virginiana,tall thimbleweed,,Anemone virginiana s.l.,doug,gran,pope,""
+N,H,Anemone virginiana var. alba,tall thimbleweed,,Anemone virginiana s.l.,doug,gran,pope,""
+N,H,Anemone virginiana var. virginiana,tall thimbleweed,,Anemone virginiana s.l.,"","",pope,""
+N,H,Antennaria neglecta,field pussytoes,,"Antennaria neglecta s.l., Antennaria neglecta var. neglecta","",gran,pope,""
+N,H,Antennaria parlinii,Parlin's pussytoes,,Antennaria plantaginifolia s.l.,"","",pope,""
+N,H,Antennaria parlinii subsp. fallax,Parlin's pussytoes,,Antennaria plantaginifolia var. ambigens,"","",pope,""
+N,H,Antennaria plantaginifolia,plantain-leaved pussytoes,,"Antennaria plantaginifolia s.l., Antennaria plantaginifolia var. plantaginifolia",doug,"",pope,""
+N,G,Anthoxanthum hirtum,sweet grass,,Hierochloe odorata,doug,"",pope,stev
+N,H,Apocynum androsaemifolium,spreading dogbane,,Apocynum androsaemifolium,doug,gran,pope,""
+N,H,Apocynum cannabinum,American hemp,,"Apocynum cannabinum, Apocynum sibiricum",doug,gran,pope,stev
+N,H,Aquilegia canadensis,columbine,,Aquilegia canadensis,doug,gran,pope,stev
+N,H,Arabis pycnocarpa var. pycnocarpa,hairy rock cress,,Arabis hirsuta var. pycnocarpa,doug,"",pope,""
+N,H,Aralia nudicaulis,wild sarsaparilla,,Aralia nudicaulis,doug,gran,pope,""
+N,H,Aralia racemosa,American spikenard,,Aralia racemosa,doug,gran,pope,""
+I,H,Arctium minus,common burdock,,Arctium minus,doug,gran,pope,""
+N,H,Arisaema triphyllum,Jack-in-the-pulpit,,"Arisaema triphyllum, Arisaema triphyllum var. pusillum, Arisaema triphyllum var. triphyllum",doug,gran,pope,""
+N,G,Aristida basiramea,base-branched three-awn,,Aristida basiramea,"","",pope,""
+I,H,Artemisia absinthium,absinthe wormwood,,Artemisia absinthium,doug,gran,"",stev
+N,H,Artemisia campestris subsp. caudata,field sagewort,,Artemisia campestris subsp. caudata,doug,"",pope,stev
+N,H,Artemisia dracunculus,tarragon,,Artemisia dracunculus,doug,gran,pope,stev
+N,H,Artemisia frigida,sage wormwood,,Artemisia frigida,doug,gran,pope,stev
+N,H,Artemisia ludoviciana subsp. ludoviciana,white sage,,Artemisia ludoviciana var. ludoviciana,doug,gran,pope,stev
+N,H,Artemisia serrata,saw-tooth wormwood,,Artemisia serrata,doug,"","",""
+N,H,Asarum canadense,wild ginger,,Asarum canadense,doug,"",pope,""
+N,H,Asclepias exaltata,poke milkweed,,Asclepias exaltata,doug,"","",""
+N,H,Asclepias incarnata subsp. incarnata,swamp milkweed,,Asclepias incarnata var. incarnata,doug,gran,pope,stev
+N,H,Asclepias lanuginosa,woolly milkweed,,Asclepias lanuginosa,doug,"","",stev
+N,H,Asclepias ovalifolia,oval-leaved milkweed,,Asclepias ovalifolia,doug,"",pope,""
+N,H,Asclepias speciosa,showy milkweed,,Asclepias speciosa,"","",pope,stev
+N,H,Asclepias syriaca,common milkweed,,Asclepias syriaca,doug,gran,pope,""
+N,H,Asclepias verticillata,whorled milkweed,,Asclepias verticillata,doug,gran,pope,stev
+N,H,Asclepias viridiflora,green milkweed,,Asclepias viridiflora,doug,"",pope,""
+I,H,Asparagus officinalis,asparagus,,Asparagus officinalis,doug,"",pope,stev
+N,H,Astragalus agrestis,fieldmilk-vetch,,Astragalus agrestis,doug,gran,pope,stev
+N,H,Astragalus canadensis var. canadensis,Canada milk-vetch,,Astragalus canadensis,doug,gran,pope,stev
+N,H,Astragalus crassicarpus var. crassicarpus,ground plum,,Astragalus crassicarpus var. crassicarpus,doug,gran,pope,stev
+N,H,Astragalus laxmannii var. robustior,prairie milk-vetch,,Astragalus adsurgens var. robustior,doug,gran,pope,stev
+N,H,Astragalus lotiflorus,lotus milk-vetch,,Astragalus lotiflorus,doug,gran,pope,stev
+N,H,Athyrium filix-femina var. angustum,northern lady fern,,Athyrium filix-femina var. michauxii,doug,gran,pope,""
+I,H,Barbarea vulgaris,yellow rocket,,Barbarea vulgaris,doug,"","",""
+N,G,Beckmannia syzigachne,American slough grass,,Beckmannia syzigachne,doug,gran,"",stev
+I,D,Berberis thunbergii,Japanese barberry,,Berberis thunbergii,doug,"","",""
+I,H,Berteroa incana,hoary alyssum,,Berteroa incana,doug,"","",""
+N,H,Berula incisa,stream parsnip,,Berula erecta,"","",pope,""
+N,D,Betula alleghaniensis,yellow birch,,Betula alleghaniensis,doug,"","",""
+N,D,Betula papyrifera,paper birch,,"Betula papyrifera s.l., Betula papyrifera var. papyrifera",doug,"",pope,""
+N,D,Betula pumila,bog birch,,Betula pumila,doug,"",pope,""
+N,H,Bidens cernua,nodding bur marigold,,Bidens cernua,doug,"",pope,""
+N,H,Bidens frondosa,leafy beggarticks,,Bidens frondosa,doug,"",pope,stev
+N,H,Bidens tripartita,tufted beggarticks,,Bidens comosa,"",gran,"",stev
+N,H,Boechera grahamii,spreading rock cress,,Arabis divaricarpa,"","",pope,stev
+N,G,Bolboschoenus fluviatilis,river bulrush,,Scirpus fluviatilis,doug,"",pope,stev
+N,G,Bolboschoenus maritimus subsp. paludosus,prairie bulrush,,Scirpus maritimus var. paludosus,"",gran,"",""
+N,H,Boltonia asteroides,false aster,,Boltonia asteroides,doug,"",pope,""
+N,H,Boltonia asteroides var. latisquama,false aster,,Boltonia asteroides var. latisquama,"","",pope,""
+N,H,Boltonia asteroides var. recognita,false aster,,Boltonia asteroides var. recognita,doug,"",pope,""
+N,H,Botrychium campestre,prairie moonwort,,,--,--,--,--
+N,H,Botrychium campestre var. campestre,prairie moonwort,,Botrychium campestre,"","",pope,""
+N,H,Botrypus virginianus,rattlesnake fern,,Botrychium virginianum,doug,gran,pope,""
+N,G,Bouteloua curtipendula var. curtipendula,side-oats grama,,Bouteloua curtipendula var. curtipendula,doug,"",pope,stev
+N,G,Bouteloua gracilis,blue grama,,Bouteloua gracilis,doug,"",pope,stev
+N,G,Bouteloua hirsuta var. hirsuta,hairy grama,,,doug,"",pope,""
+I,H,Brassica juncea,Indian mustard,,Brassica juncea,"","",pope,""
+I,H,Brassica nigra,black mustard,,Brassica nigra,"","","",stev
+N,G,Bromus ciliatus,fringed brome,,Bromus ciliatus,doug,gran,pope,""
+I,G,Bromus inermis,smooth brome,,Bromus inermis,doug,gran,pope,stev
+I,G,Bromus japonicus,Japanese brome,,Bromus japonicus,"","",pope,""
+N,G,Bromus kalmii,Kalm's brome,,Bromus kalmii,doug,"",pope,""
+N,G,Bromus latiglumis,broad-glumed brome,,Bromus altissimus,"","",pope,""
+N,G,Bromus pubescens,hairy brome,,Bromus pubescens,doug,gran,"",""
+I,G,Bromus tectorum,cheatgrass,,Bromus tectorum,"","",pope,""
+N,G,Calamagrostis canadensis,bluejoint,,Calamagrostis canadensis,doug,"",pope,""
+N,G,Calamagrostis stricta,slimstem reedgrass,,Calamagrostis stricta,doug,gran,pope,""
+N,G,Calamagrostis stricta subsp. inexpansa,slimstem reedgrass,,"Calamagrostis lacustris, Calamagrostis stricta",--,--,--,--
+N,G,Calamovilfa longifolia var. longifolia,prairie sandreed,,Calamovilfa longifolia var. longifolia,doug,gran,pope,stev
+N,H,Calla palustris,wild calla,,Calla palustris,doug,"",pope,""
+N,H,Calopogon tuberosus var. tuberosus,tuberous grass pink,,Calopogon tuberosus var. tuberosus,"","",pope,""
+N,H,Caltha palustris,common marsh marigold,,Caltha palustris,doug,"",pope,""
+N,H,Calystegia macounii,Macoun's false bindweed,,,"","",pope,""
+N,H,Calystegia sepium,hedge bindweed,,Calystegia sepium,doug,gran,pope,stev
+I,H,Camelina sativa,large-seeded false flax,,Camelina sativa,"","",pope,""
+N,H,Campanula aparinoides,marsh bellflower,,Campanula aparinoides,doug,gran,pope,""
+N,H,Campanula aparinoides var. grandiflora,marsh bellflower,,Campanula aparinoides var. grandiflora,--,--,--,--
+I,H,Campanula rapunculoides,European bellflower,,Campanula rapunculoides,"","",pope,""
+N,H,Campanula rotundifolia,harebell,,Campanula rotundifolia,doug,"",pope,stev
+I,H,Cannabis sativa,marijuana,,Cannabis sativa,"","",pope,""
+I,H,Capsella bursa-pastoris,shepherd's-purse,,Capsella bursa-pastoris,doug,"","",stev
+N,H,Cardamine bulbosa,spring cress,,Cardamine rhomboidea,doug,"",pope,""
+N,H,Cardamine concatenata,cut-leaved toothwort,,Cardamine concatenata,doug,"","",""
+N,H,Cardamine pensylvanica,Pensylvania bitter cress,,Cardamine pensylvanica,doug,gran,pope,""
+I,H,Carduus acanthoides subsp. acanthoides,plumeless thistle,,,doug,gran,"",""
+N,G,Carex aquatilis,aquatic sedge,,Carex aquatilis,doug,gran,pope,""
+N,G,Carex aquatilis var. substricta,aquatic sedge,,Carex aquatilis var. substricta,doug,gran,pope,""
+N,G,Carex assiniboinensis,assiniboine sedge,,Carex assiniboinensis,doug,gran,pope,""
+N,G,Carex atherodes,slough sedge,,Carex atherodes,doug,gran,pope,stev
+N,G,Carex aurea,golden-fruited sedge,,Carex aurea,doug,"",pope,""
+N,G,Carex bebbii,Bebb's sedge,,Carex bebbii,doug,"",pope,""
+N,G,Carex bicknellii,Bicknell's sedge,,Carex bicknellii,doug,"",pope,""
+N,G,Carex blanda,charming sedge,,Carex blanda,doug,"",pope,stev
+N,G,Carex brevior,plains oval sedge,,Carex brevior s.l.,doug,"",pope,""
+N,G,Carex buxbaumii,Buxbaum's sedge,,Carex buxbaumii,doug,"",pope,""
+N,G,Carex canescens,silvery sedge,,Carex canescens,doug,"","",""
+N,G,Carex chordorrhiza,creeping sedge,,Carex chordorrhiza,doug,"","",""
+N,G,Carex comosa,bristly sedge,,Carex comosa,doug,"",pope,""
+N,G,Carex crawei,Crawe's sedge,,Carex crawei,"","","",stev
+N,G,Carex crawfordii,Crawford's sedge,,Carex crawfordii,"","",pope,""
+N,G,Carex cristatella,crested sedge,,Carex cristatella,"",gran,pope,""
+N,G,Carex deweyana var. deweyana,Dewey's sedge,,,doug,gran,pope,""
+N,G,Carex disperma,soft-leaved sedge,,Carex disperma,doug,"",pope,""
+N,G,Carex duriuscula,spike rush sedge,,Carex stenophylla,doug,"",pope,""
+N,G,Carex eburnea,ivory sedge,,Carex eburnea,"","",pope,""
+N,G,Carex echinodes,marsh straw sedge,,Carex tenera var. echinodes,doug,"","",""
+N,G,Carex emoryi,Emory's sedge,,Carex emoryi,"","",pope,stev
+N,G,Carex filifolia var. filifolia,thread-leaved sedge,,,doug,"",pope,""
+N,G,Carex gracillima,graceful sedge,,Carex gracillima,doug,"","",""
+N,G,Carex granularis,granular sedge,,Carex granularis,doug,gran,pope,""
+N,G,Carex gravida,heavy sedge,,Carex gravida,doug,gran,pope,""
+N,G,Carex hystericina,porcupine sedge,,Carex hystericina,doug,gran,pope,""
+N,G,Carex inops subsp. heliophila,sun-loving sedge,,,doug,"",pope,""
+N,G,Carex interior,interior sedge,,Carex interior,doug,gran,pope,""
+N,G,Carex intumescens,bladder sedge,,Carex intumescens,doug,"",pope,""
+N,G,Carex lacustris,lake sedge,,Carex lacustris,doug,gran,pope,""
+N,G,Carex lasiocarpa,fen  wiregrass sedge,,Carex lasiocarpa var. americana,doug,"",pope,""
+N,G,Carex leptalea,bristle-stalked sedge,,Carex leptalea,doug,"",pope,""
+N,G,Carex limosa,candle-lantern sedge,,Carex limosa,doug,"",pope,""
+N,G,Carex lupulina,hop umbrella sedge,,Carex lupulina,doug,"","",""
+N,G,Carex magellanica subsp. irrigua,poor sedge,,Carex paupercula,doug,"",pope,""
+N,G,Carex meadii,Mead's sedge,,Carex meadii,doug,"","",""
+N,G,Carex molesta,troublesome sedge,,Carex brevior s.l.,"",gran,pope,""
+N,G,Carex normalis,right-angle sedge,,Carex normalis,"","",pope,""
+N,G,Carex peckii,Peck's sedge,,Carex peckii,doug,"",pope,""
+N,G,Carex pedunculata,long-stalked sedge,,Carex pedunculata,doug,gran,pope,""
+N,G,Carex pellita,woolly sedge,,Carex pellita,"",gran,pope,stev
+N,G,Carex pensylvanica,Pennsylvania sedge,,"Carex pensylvanica, Carex pensylvanica var. pensylvanica",doug,gran,pope,""
+N,G,Carex praegracilis,very slender sedge,,Carex praegracilis,"","",pope,stev
+N,G,Carex prairea,prairie sedge,,Carex prairea,doug,"",pope,""
+N,G,Carex projecta,projecting sedge,,Carex projecta,"","",pope,""
+N,G,Carex pseudocyperus,cyperus sedge,,Carex pseudocyperus,"",gran,pope,""
+N,G,Carex radiata,eastern star sedge,,Carex radiata,doug,"",pope,""
+N,G,Carex retrorsa,retrorse sedge,,Carex retrorsa,"","",pope,""
+N,G,Carex richardsonii,Richardson's sedge,,Carex richardsonii,"","",pope,""
+N,G,Carex rosea,starry sedge,,Carex rosea,"",gran,pope,""
+N,G,Carex sartwellii,Sartwell's sedge,,Carex sartwellii,doug,gran,pope,""
+N,G,Carex saximontana,Rocky Mountain sedge,,Carex backii s.l.,"","",pope,""
+N,G,Carex scoparia,pointed broom sedge,,Carex scoparia,doug,"","",""
+N,G,Carex siccata,dry spike sedge,,Carex siccata,"","",pope,""
+N,G,Carex sprengelii,Sprengel's sedge,,Carex sprengelii,doug,gran,pope,stev
+N,G,Carex sterilis,sterile sedge,,Carex sterilis,"","",pope,""
+N,G,Carex stipata var. stipata,awl-fruited sedge,,Carex stipata,doug,gran,pope,""
+N,G,Carex stricta,tussock sedge,,Carex stricta,"","",pope,""
+N,G,Carex sychnocephala,many-headed sedge,,Carex sychnocephala,"",gran,"",stev
+N,G,Carex tenera,quill sedge,,"Carex tenera s.l., Carex tenera var. tenera",doug,"","",""
+N,G,Carex tetanica,rigid sedge,,Carex tetanica,doug,gran,pope,stev
+N,G,Carex torreyi,Torrey's sedge,,Carex torreyi,doug,"",pope,""
+N,G,Carex tribuloides var. tribuloides,blunt broom sedge,,Carex tribuloides,doug,"","",""
+N,G,Carex utriculata,beaked sedge,,Carex utriculata,"",gran,pope,""
+N,G,Carex vesicaria,inflated sedge,,Carex vesicaria,"","",pope,""
+N,G,Carex vulpinoidea,fox sedge,,"Carex vulpinoidea, Carex vulpinoidea var. vulpinoidea",doug,gran,pope,""
+N,H,Castilleja coccinea,Indian paintbrush,,Castilleja coccinea,doug,"","",""
+N,H,Castilleja sessiliflora,downy paintbrush,,Castilleja sessiliflora,doug,"",pope,stev
+N,H,Caulophyllum thalictroides,blue cohosh,,Caulophyllum thalictroides,doug,gran,pope,""
+I,C,Celastrus orbiculatus,Oriental bittersweet,,Celastrus orbiculatus,doug,"","",""
+N,C,Celastrus scandens,American bittersweet,,Celastrus scandens,doug,gran,pope,stev
+N,D,Celtis occidentalis,hackberry,,Celtis occidentalis,doug,gran,pope,""
+I,H,Centaurea stoebe subsp. micranthos,spotted knapweed,,Centaurea maculosa,"","",pope,""
+N,H,Cerastium arvense,field chickweed,,Cerastium arvense,doug,"",pope,stev
+N,H,Cerastium arvense subsp. strictum,field chickweed,,Cerastium arvense,doug,"",pope,stev
+I,H,Cerastium fontanum subsp. vulgare,mouse-ear chickweed,,Cerastium vulgatum,"","",pope,""
+N,"H,S",Ceratophyllum demersum,common coontail,,Ceratophyllum demersum,doug,gran,pope,stev
+N,B,Chamaedaphne calyculata,leatherleaf,,Chamaedaphne calyculata,doug,"","",""
+N,H,Chamaenerion angustifolium,fireweed,,Epilobium angustifolium,"","",pope,""
+I,H,Chenopodium album,white lamb's quarters,,Chenopodium album s.s.,doug,gran,pope,""
+N,H,Chenopodium glaucum,oak-leaved goosefoot,,Chenopodium glaucum,"",gran,pope,stev
+N,H,Chenopodium rubrum,alkali blite,,Chenopodium rubrum,doug,"","",stev
+N,H,Chenopodium simplex,maple-leaved goosefoot,,Chenopodium gigantospermum,doug,gran,pope,""
+N,H,Chenopodium standleyanum,woodland goosefoot,,Chenopodium standleyanum,"",gran,"",""
+N,H,Cicuta bulbifera,bulb-bearing water hemlock,,Cicuta bulbifera,doug,gran,pope,""
+N,H,Cicuta maculata,spotted water hemlock,,Cicuta maculata,doug,gran,pope,stev
+N,H,Cicuta maculata var. maculata,spotted water hemlock,,Cicuta maculata var. maculata,doug,gran,pope,stev
+N,G,Cinna arundinacea,stout woodreed,,Cinna arundinacea,"","",pope,""
+N,G,Cinna latifolia,drooping woodreed,,Cinna latifolia,doug,"","",""
+N,H,Circaea alpina subsp. alpina,alpine enchanter's nightshade,,Circaea alpina var. alpina,doug,"","",""
+N,H,Circaea canadensis subsp. canadensis,enchanter's nightshade,,,doug,gran,pope,""
+N,H,Cirsium altissimum,tall thistle,,Cirsium altissimum,"",gran,pope,""
+I,H,Cirsium arvense,Canada thistle,,"Cirsium arvense, Cirsium arvense var. arvense, Cirsium arvense var. horridum",doug,gran,pope,stev
+N,H,Cirsium flodmanii,Flodman's thistle,,Cirsium flodmanii,doug,gran,pope,stev
+N,H,Cirsium muticum,swamp thistle,,Cirsium muticum,doug,gran,pope,""
+N,H,Cirsium pumilum var. hillii,Hill's thistle,,Cirsium hillii,doug,"",pope,""
+I,H,Cirsium vulgare,bull thistle,,Cirsium vulgare,doug,gran,pope,""
+N,C,Clematis virginiana,virgin's bower,,Clematis virginiana,doug,gran,pope,""
+N,H,Coeloglossum viride var. virescens,long-bracted orchid,,Habenaria viridis var. bracteata,"","",pope,""
+N,H,Collomia linearis,linear-leaved collomia,,Collomia linearis,doug,"","",""
+N,H,Comandra umbellata subsp. umbellata,bastard toadflax,,Comandra umbellata var. umbellata,doug,gran,pope,stev
+N,H,Comarum palustre,marsh cinquefoil,,Potentilla palustris,doug,"",pope,""
+I,H,Convolvulus arvensis,field bindweed,,Convolvulus arvensis,"",gran,"",""
+N,H,Conyza canadensis,horseweed,,Conyza canadensis,doug,gran,pope,""
+N,H,Coptis trifolia,goldthread,,Coptis trifolia var. groenlandica,doug,"","",""
+N,H,Corallorhiza maculata,spotted coralroot,,Corallorhiza maculata,"","",pope,""
+N,H,Corallorhiza maculata var. occidentalis,western spotted coralroot,,Corallorhiza maculata var. occidentalis,"","",pope,""
+N,H,Corallorhiza trifida,early coralroot,,Corallorhiza trifida,doug,"","",""
+N,H,Coreopsis palmata,bird's foot coreopsis,,Coreopsis palmata,doug,gran,pope,stev
+N,H,Corispermum americanum var. americanum,American bugseed,,Corispermum americanum,"","",pope,""
+N,D,Cornus alternifolia,pagoda dogwood,,Cornus alternifolia,doug,"",pope,""
+N,D,Cornus racemosa,gray dogwood,,Cornus racemosa,doug,gran,pope,""
+N,D,Cornus rugosa,round-leaved dogwood,,Cornus rugosa,doug,"",pope,""
+N,D,Cornus sericea,red-osier dogwood,,Cornus sericea,doug,gran,pope,stev
+N,H,Corydalis aurea var. aurea,golden corydalis,,Corydalis aurea var. aurea,doug,"",pope,stev
+N,D,Corylus americana,American hazelnut,,Corylus americana,doug,gran,pope,""
+N,D,Corylus cornuta subsp. cornuta,beaked hazelnut,,Corylus cornuta,doug,"","",""
+N,D,Crataegus chrysocarpa,fireberry hawthorn,,Crataegus chrysocarpa s.l.,doug,gran,pope,""
+N,D,Crataegus macracantha,large-thorned hawthorn,,Crataegus succulenta s.l.,doug,"","",""
+N,D,Crataegus punctata,dotted hawthorn,,Crataegus punctata,doug,"","",""
+N,H,Crepis runcinata subsp. runcinata,incised hawk's beard,,Crepis runcinata subsp. runcinata,"","","",stev
+I,H,Crepis tectorum,yellow hawk's beard,,Crepis tectorum,doug,"","",stev
+N,H,Crocanthemum bicknellii,hoary frostweed,,Helianthemum bicknellii,doug,"",pope,""
+N,H,Cryptotaenia canadensis,honewort,,Cryptotaenia canadensis,doug,gran,pope,""
+N,H,Cuscuta glomerata,rope dodder,,Cuscuta glomerata,"","",pope,""
+N,H,Cuscuta gronovii,scaldweed,,Cuscuta gronovii,"","",pope,""
+N,H,Cuscuta pentagona,bur clover dodder,,Cuscuta pentagona s.l.,"","",pope,""
+N,H,Cyclachaena xanthiifolia,marsh elder,,Iva xanthifolia,doug,"","",""
+N,G,Cyperus bipartitus,brook nut sedge,,Cyperus bipartitus,doug,"",pope,""
+N,G,Cyperus engelmannii,Engelmann's flatsedge,,Cyperus odoratus s.l.,"","",pope,stev
+N,G,Cyperus odoratus,fragrant cyperus,,Cyperus odoratus s.l.,"","",pope,stev
+N,H,Cypripedium acaule,stemless lady's slipper,,Cypripedium acaule,"",gran,pope,""
+N,H,Cypripedium candidum,small white lady's slipper,,Cypripedium candidum,doug,gran,pope,stev
+N,H,Cypripedium parviflorum,yellow lady's slipper,,Cypripedium calceolus,doug,"",pope,""
+N,H,Cypripedium parviflorum var. makasin,lesser yellow lady's-slipper,,Cypripedium calceolus var. parviflorum,doug,"",pope,""
+N,H,Cypripedium parviflorum var. pubescens,large yellow lady's-slipper,,Cypripedium calceolus var. pubescens,doug,"",pope,""
+N,H,Cypripedium reginae,showy lady's slipper,,Cypripedium reginae,doug,"",pope,""
+N,H,Cystopteris bulbifera,bulblet bladder fern,,Cystopteris bulbifera,"","",pope,""
+N,H,Cystopteris fragilis,fragile bladder fern,,"Cystopteris fragilis s.l., Cystopteris fragilis var. mackayi s.l.","","",pope,""
+N,H,Cystopteris tenuis,Macay's brittle fern,,"Cystopteris fragilis s.l., Cystopteris fragilis var. mackayi s.l.","","",pope,""
+N,H,Dalea candida,white prairie clover,,Dalea candida,doug,gran,pope,stev
+N,H,Dalea candida var. candida,white prairie clover,,Dalea candida var. candida,doug,gran,pope,stev
+N,H,Dalea purpurea var. purpurea,purple prairie clover,,Dalea purpurea var. purpurea,doug,gran,pope,stev
+N,G,Danthonia spicata,poverty oatgrass,,Danthonia spicata,doug,"","",""
+N,D,Dasiphora fruticosa,shrubby cinquefoil,,Potentilla fruticosa,"","",pope,""
+N,H,Delphinium carolinianum subsp. virescens,prairie larkspur,,Delphinium virescens,doug,"",pope,""
+N,H,Descurainia incana,Richardson's tansy mustard,,Descurainia richardsonii,"","",pope,""
+N,H,Descurainia pinnata subsp. brachycarpa,pinnate tansy mustard,,Descurainia pinnata var. brachycarpa,doug,"","",""
+I,H,Descurainia sophia,herb sophia,,Descurainia sophia,"","",pope,stev
+N,H,Desmanthus illinoensis,prairie mimosa,,Desmanthus illinoensis,"",gran,"",stev
+N,H,Desmodium canadense,Canada tick trefoil,,Desmodium canadense,doug,gran,pope,""
+N,H,Dicentra cucullaria,dutchman's breeches,,Dicentra cucullaria,doug,"",pope,stev
+N,G,Dichanthelium acuminatum,hairy panic grass,,Panicum lanuginosum,doug,"","",""
+N,G,Dichanthelium leibergii,Leiberg's panic grass,,Panicum leibergii,doug,"",pope,stev
+N,G,Dichanthelium linearifolium,linear-leaved panic grass,,Panicum linearifolium,"","",pope,""
+N,G,Dichanthelium oligosanthes,few-flowered panic grass,,Panicum oligosanthes,doug,"","",""
+N,G,Dichanthelium ovale,long-haired panic grass,,"Panicum commonsianum var. euchlamydeum, Panicum villosissimum",doug,"",pope,""
+N,G,Dichanthelium ovale subsp. praecocius,long-haired panic grass,,Panicum villosissimum,doug,"",pope,""
+N,G,Dichanthelium wilcoxianum,Wilcox's panic grass,,Panicum wilcoxianum,"","",pope,""
+N,D,Diervilla lonicera,bush honeysuckle,,Diervilla lonicera,doug,"",pope,""
+N,D,Dirca palustris,leatherwood,,Dirca palustris,doug,"","",""
+N,H,Doellingeria umbellata,flat-topped aster,,"Aster pubentior, Aster umbellatus",doug,gran,pope,""
+N,H,Draba nemorosa,yellow whitlow grass,,Draba nemorosa,"","",pope,""
+N,H,Draba reptans,Carolina whitlow grass,,Draba reptans var. reptans,"","",pope,""
+N,H,Dracocephalum parviflorum,dragonhead,,Dracocephalum parviflorum,"",gran,"",""
+N,H,Drosera rotundifolia,round-leaved sundew,,Drosera rotundifolia,doug,"",pope,""
+N,H,Drymocallis arguta,tall cinquefoil,,"Potentilla arguta, Potentilla arguta subsp. arguta",doug,"",pope,""
+N,H,Dryopteris carthusiana,spinulose wood fern,,Dryopteris carthusiana,doug,"",pope,""
+N,H,Dryopteris cristata,crested wood fern,,Dryopteris cristata,"",gran,"",""
+N,H,Echinacea angustifolia,narrow-leaved purple coneflower,,Echinacea pallida var. angustifolia,doug,gran,pope,stev
+I,G,Echinochloa crus-galli,cockspur barnyard grass,,"Echinochloa crusgalli, Echinochloa crusgalli var. crusgalli","","",pope,""
+N,G,Echinochloa muricata,rough barnyard grass,,Echinochloa muricata,doug,gran,pope,""
+N,G,Echinochloa muricata var. microstachya,rough barnyard grass,,Echinochloa muricata var. microstachya,doug,gran,"",""
+N,H,Echinocystis lobata,wild cucumber,,Echinocystis lobata,doug,gran,pope,stev
+I,D,Elaeagnus angustifolia,Russian olive,,Elaeagnus angustifolia,"","","",stev
+N,G,Eleocharis acicularis,least spikerush,,Eleocharis acicularis,doug,"","",""
+N,G,Eleocharis compressa,flattened spikerush,,Eleocharis compressa,"","",pope,""
+N,G,Eleocharis elliptica,elliptic spikerush,,Eleocharis tenuis var. borealis,"","",pope,""
+N,G,Eleocharis erythropoda,bald spikerush,,Eleocharis palustris s.l.,doug,gran,pope,stev
+N,G,Eleocharis macrostachya,large-spike spikerush,,Eleocharis palustris s.l.,"","","",stev
+N,G,Eleocharis palustris,marsh spikerush,,Eleocharis palustris s.l.,doug,gran,pope,stev
+N,G,Eleocharis quinqueflora,few-flowered spikerush,,Eleocharis pauciflora,"","",pope,""
+N,H,Ellisia nyctelea,ellisia,,Ellisia nyctelea,doug,gran,pope,stev
+N,"H,S",Elodea canadensis,Canadian elodea,,Elodea canadensis,"","",pope,""
+N,G,Elymus canadensis var. canadensis,Canada wildrye,,Elymus canadensis,doug,gran,pope,stev
+N,G,Elymus curvatus,awnless wild rye,,Elymus curvatus,doug,"","",""
+N,G,Elymus hystrix,bottlebrush grass,Hystix patula,Elymus hystrix,doug,gran,pope,""
+I,G,Elymus repens,quackgrass,,Elytrigia repens,doug,gran,pope,""
+N,G,Elymus trachycaulus,slender wheatgrass,,Elymus trachycaulus,doug,"",pope,""
+N,G,Elymus trachycaulus subsp. subsecundus,one-sided wheatgrass,,Elymus trachycaulus,--,--,--,--
+N,G,Elymus villosus,downy wild rye,,Elymus villosus,doug,gran,pope,""
+N,G,Elymus virginicus,Virginia wildrye,,Elymus virginicus,doug,"",pope,""
+N,G,Elymus virginicus var. virginicus,Virginia wild rye,,Elymus virginicus,--,--,--,--
+N,H,Epilobium ciliatum,American willow herb,,Epilobium ciliatum s.s.,doug,"",pope,""
+N,H,Epilobium ciliatum subsp. ciliatum,American willow herb,,Epilobium ciliatum var. ciliatum,doug,"",pope,""
+N,H,Epilobium coloratum,purple-leaved willow herb,,Epilobium coloratum,doug,"",pope,""
+N,H,Epilobium leptophyllum,linear-leaved willow herb,,Epilobium leptophyllum,doug,gran,pope,""
+N,H,Epilobium palustre,marsh willow herb,,Epilobium palustre,"","",pope,""
+N,H,Equisetum arvense,field horsetail,,Equisetum arvense,doug,gran,pope,""
+N,H,Equisetum fluviatile,water horsetail,,Equisetum fluviatile,doug,"",pope,""
+N,H,Equisetum laevigatum,smooth scouring rush,,Equisetum laevigatum,doug,gran,pope,stev
+N,H,Equisetum praealtum,common scouring rush,,Equisetum hyemale var. affine,doug,"",pope,""
+N,H,Equisetum pratense,meadow horsetail,,Equisetum pratense,doug,"","",""
+N,H,Equisetum scirpoides,dwarf scouring rush,,Equisetum scirpoides,doug,"","",""
+N,H,Equisetum xferrissii,Ferriss' scouring rush,,Equisetum xferrissii,"","",pope,""
+I,G,Eragrostis cilianensis,stink grass,,Eragrostis cilianensis,"","","",stev
+N,G,Eragrostis pectinacea var. pectinacea,tufted lovegrass,,Eragrostis pectinacea,"","","",stev
+N,H,Erigeron glabellus var. pubescens,smooth fleabane,,Erigeron glabellus var. pubescens,doug,"","",""
+N,H,Erigeron philadelphicus var. philadelphicus,Philadelphia fleabane,,Erigeron philadelphicus,doug,gran,pope,stev
+N,H,Erigeron strigosus,daisy fleabane,,Erigeron strigosus,doug,gran,pope,stev
+N,G,Eriophorum angustifolium subsp. angustifolium,tall cottongrass,,Eriophorum polystachion,doug,"",pope,""
+N,G,Eriophorum gracile,slender cottongrass,,Eriophorum gracile,doug,"","",""
+N,G,Eriophorum russeolum subsp. leiocarpum,Chamisso's cottongrass,,Eriophorum chamissonis,doug,"",pope,""
+I,H,Erucastrum gallicum,dog mustard,,Erucastrum gallicum,"","",pope,stev
+I,H,Erysimum cheiranthoides,wormseed mustard,,Erysimum cheiranthoides,doug,"",pope,""
+N,H,Erythranthe geyeri,yellow monkey flower,,"Mimulus glabratus, Mimulus glabratus var. fremontii",doug,gran,"",""
+N,H,Eupatorium perfoliatum,common boneset,,Eupatorium perfoliatum,doug,gran,pope,""
+I,H,Euphorbia cyparissias,cypress spurge,,Euphorbia cyparissias,doug,"","",""
+N,H,Euphorbia geyeri var. geyeri,Geyer's sandmat,,,doug,"","",""
+N,H,Euphorbia glyptosperma,ribseed sandmat,,Euphorbia glyptosperma,doug,gran,pope,stev
+N,H,Euphorbia serpillifolia subsp. serpillifolia,thyme-leaved spurge,,Euphorbia serpyllifolia,"",gran,"",""
+I,H,Euphorbia virgata,leafy spurge,,Euphorbia esula,doug,"",pope,stev
+N,H,Euthamia graminifolia,grass-leaved goldenrod,,"Euthamia graminifolia, Euthamia graminifolia var. graminifolia, Euthamia graminifolia var. major",doug,gran,pope,stev
+N,H,Eutrochium maculatum,spotted Joe pye weed,,Eupatorium maculatum,doug,gran,pope,stev
+N,H,Eutrochium maculatum var. bruneri,spotted Joe pye weed,,Eupatorium maculatum subsp. bruneri,--,--,--,--
+N,H,Eutrochium maculatum var. maculatum,spotted Joe pye weed,,Eupatorium maculatum var. maculatum,--,--,--,--
+N,H,Eutrochium purpureum var. holzingeri,sweet-scented Joe pye weed,,Eupatorium purpureum var. holzingeri,--,--,--,--
+I,H,Fallopia convolvulus,black-bindweed,,Polygonum convolvulus,doug,gran,pope,""
+N,H,Fallopia scandens,false buckwheat,,Polygonum scandens var. scandens,"","",pope,""
+I,G,Festuca rubra,red fescue,,Festuca rubra,"","",pope,""
+N,G,Festuca subverticillata,nodding fescue,,Festuca subverticillata,doug,"",pope,""
+N,H,Fragaria vesca subsp. americana,wood strawberry,,Fragaria vesca var. americana,doug,gran,pope,""
+N,H,Fragaria virginiana,common strawberry,,Fragaria virginiana,doug,gran,pope,stev
+I,D,Frangula alnus,glossy buckthorn,,Rhamnus frangula,"","",pope,""
+N,D,Fraxinus nigra,black ash,,Fraxinus nigra,doug,"","",""
+N,D,Fraxinus pennsylvanica,green ash,,Fraxinus pennsylvanica,doug,gran,pope,stev
+N,H,Gaillardia aristata,blanketflower,,Gaillardia aristata,"","","",stev
+N,H,Galearis spectabilis,showy orchis,,Orchis spectabilis,doug,"",pope,""
+I,H,Galinsoga parviflora var. parviflora,small-flowered galinsoga,,Galinsoga parviflora,doug,"","",""
+N,H,Galium aparine,cleavers,,Galium aparine,doug,gran,pope,stev
+N,H,Galium asprellum,rough bedstraw,,Galium asprellum,doug,"","",""
+N,H,Galium boreale,northern bedstraw,,Galium boreale,doug,gran,pope,stev
+N,H,Galium labradoricum,labrador bedstraw,,Galium labradoricum,doug,"",pope,""
+N,H,Galium trifidum var. trifidum,three-cleft bedstraw,,Galium trifidum var. trifidum,doug,gran,pope,""
+N,H,Galium triflorum var. triflorum,sweet-scented bedstraw,,Galium triflorum var. triflorum,doug,gran,pope,stev
+N,H,Gentiana andrewsii,bottle gentian,,Gentiana andrewsii,doug,gran,pope,stev
+N,H,Gentiana puberulenta,downy gentian,,Gentiana puberulenta,doug,"",pope,stev
+N,H,Gentianopsis virgata,lesser fringed gentian,,Gentianopsis procera,"","",pope,""
+N,H,Gentianopsis virgata subsp. macounii,Macoun's fringed gentian,,,"","",pope,""
+N,H,Gentianopsis virgata subsp. virgata,narrow-leaved fringed gentian,,Gentianopsis procera,"","",pope,""
+N,H,Geranium bicknellii,Bicknell's cranesbill,,Geranium bicknellii,doug,"","",""
+N,H,Geranium maculatum,wild geranium,,Geranium maculatum,doug,"",pope,""
+N,H,Geum aleppicum,yellow avens,,"Geum aleppicum, Geum aleppicum var. strictum",doug,"",pope,""
+N,H,Geum canadense,white avens,,Geum canadense,doug,"",pope,""
+N,H,Geum rivale,purple avens,,Geum rivale,doug,"","",""
+N,H,Geum triflorum var. triflorum,prairie smoke,,,doug,"",pope,stev
+N,G,Glyceria borealis,northern manna grass,,Glyceria borealis,"","",pope,""
+N,G,Glyceria grandis var. grandis,tall manna grass,,Glyceria grandis,doug,gran,pope,""
+N,G,Glyceria striata,fowl manna grass,,"Glyceria striata, Glyceria striata var. striata, Glyceria striata var. stricta",doug,gran,pope,""
+N,H,Glycyrrhiza lepidota,wild licorice,,Glycyrrhiza lepidota,doug,gran,pope,stev
+N,H,Gymnocarpium dryopteris,western oak fern,,Gymnocarpium dryopteris,doug,"","",""
+N,H,Hackelia deflexa var. americana,nodding stickseed,,Hackelia deflexa var. americana,"","",pope,""
+N,H,Hackelia virginiana,Virginia stickseed,,Hackelia virginiana,doug,gran,pope,""
+N,H,Hedeoma hispida,mock pennyroyal,,Hedeoma hispida,"","",pope,""
+N,H,Helenium autumnale,autumn sneezeweed,,Helenium autumnale var. autumnale,doug,"",pope,stev
+N,H,Helianthus giganteus,giant sunflower,,Helianthus giganteus s.l.,doug,"",pope,""
+N,H,Helianthus grosseserratus,sawtooth sunflower,,Helianthus grosseserratus,doug,gran,pope,""
+N,H,Helianthus hirsutus,hairy sunflower,,Helianthus hirsutus,"",gran,"",""
+N,H,Helianthus maximiliani,Maximilian's sunflower,,Helianthus maximilianii,doug,gran,pope,stev
+N,H,Helianthus nuttallii subsp. rydbergii,Nuttall's sunflower,,Helianthus giganteus s.l.,"","",pope,""
+N,H,Helianthus pauciflorus,stiff sunflower,,Helianthus pauciflorus,doug,gran,pope,stev
+N,H,Helianthus pauciflorus subsp. pauciflorus,stiff sunflower,,Helianthus pauciflorus var. pauciflorus,doug,gran,pope,stev
+N,H,Helianthus pauciflorus subsp. subrhomboideus,stiff sunflower,,Helianthus pauciflorus var. subrhomboideus,"",gran,pope,""
+N,H,Helianthus strumosus,woodland sunflower,,Helianthus strumosus,"","",pope,""
+N,H,Helianthus tuberosus,Jerusalem artichoke,,Helianthus tuberosus,"","",pope,""
+N,H,Helianthus xlaetiflorus,bright sunflower,,Helianthus xlaetiflorus,"","","",stev
+N,H,Heliopsis helianthoides var. scabra,ox-eye,,Heliopsis helianthoides var. scabra,doug,gran,pope,stev
+N,H,Heracleum maximum,cow parsnip,,Heracleum lanatum,doug,"",pope,""
+I,H,Hesperis matronalis,dame's rocket,,Hesperis matronalis,doug,gran,pope,""
+N,G,Hesperostipa comata subsp. comata,needle-and-thread grass,,Stipa comata,doug,gran,pope,""
+N,G,Hesperostipa spartea,porcupine grass,,Stipa spartea,doug,gran,pope,stev
+N,"H,S",Heteranthera dubia,water stargrass,,Zosterella dubia,doug,"",pope,""
+N,H,Heterotheca villosa,hairy golden aster,,Chrysopsis villosa,doug,gran,pope,""
+N,H,Heuchera richardsonii,alumroot,,Heuchera richardsonii,doug,"",pope,stev
+N,H,Hieracium longipilum,long-bearded hawkweed,,Hieracium longipilum,doug,"",pope,""
+N,H,Hieracium umbellatum,rough hawkweed,,"Hieracium kalmii, Hieracium umbellatum s.s.",doug,"",pope,""
+N,"H,S",Hippuris vulgaris,mare's tail,,Hippuris vulgaris,doug,"",pope,stev
+N,G,Hordeum jubatum subsp. jubatum,foxtail barley,,Hordeum jubatum,doug,gran,pope,stev
+N,H,Humulus lupulus,common hops,,Humulus lupulus,doug,gran,pope,""
+N,H,Humulus lupulus var. lupuloides,common hops,Humulus lupuloides,Humulus lupulus var. lupuloides,doug,gran,pope,""
+N,H,Hydrophyllum virginianum var. virginianum,Virginia waterleaf,,Hydrophyllum virginianum var. virginianum,doug,gran,pope,stev
+N,H,Hylodesmum glutinosum,pointed-leaved tick trefoil,,Desmodium glutinosum,doug,gran,pope,""
+I,H,Hypericum perforatum subsp. perforatum,common St. John's-wort,,Hypericum perforatum,"","","",stev
+N,H,Hypoxis hirsuta,yellow star-grass,,Hypoxis hirsuta,doug,gran,pope,stev
+N,H,Impatiens capensis,spotted touch-me-not,,Impatiens capensis,doug,gran,pope,""
+I,H,Iris pseudacorus,yellow flag,,Iris pseudacorus,doug,"","",""
+N,H,Iris versicolor,northern blue flag,,Iris versicolor,doug,"",pope,""
+N,G,Juncus alpinoarticulatus,alpine rush,,Juncus alpinoarticulatus,doug,"",pope,""
+N,G,Juncus balticus subsp. littoralis,baltic rush,,Juncus arcticus var. littoralis,doug,gran,pope,stev
+N,G,Juncus dudleyi,Dudley's rush,,Juncus tenuis var. dudleyi,doug,gran,pope,stev
+N,G,Juncus interior,inland rush,,Juncus tenuis var. tenuis,doug,"","",""
+N,G,Juncus nodosus,knotty rush,,Juncus nodosus,doug,gran,pope,""
+N,G,Juncus tenuis,path rush,,Juncus tenuis,doug,"","",""
+N,G,Juncus torreyi,Torrey's rush,,Juncus torreyi,"",gran,"",stev
+N,E,Juniperus communis var. depressa,bush juniper,,Juniperus communis var. depressa,doug,"",pope,""
+N,E,Juniperus horizontalis,creeping juniper,,Juniperus horizontalis,"","",pope,""
+N,E,Juniperus virginiana var. virginiana,eastern red cedar,,Juniperus virginiana var. virginiana,doug,"",pope,stev
+N,G,Koeleria macrantha,junegrass,,Koeleria pyramidata,doug,"",pope,stev
+N,H,Krigia biflora,orange dwarfdandelion,,Krigia biflora,"","",pope,""
+N,H,Lactuca biennis,biennial blue lettuce,,Lactuca biennis,doug,"",pope,""
+N,H,Lactuca canadensis,Canada wild lettuce,,Lactuca canadensis,doug,"",pope,""
+N,H,Lactuca ludoviciana,Louisiana lettuce,,Lactuca ludoviciana,"","",pope,""
+N,H,Laportea canadensis,woodnettle,,Laportea canadensis,doug,gran,pope,""
+I,H,Lappula redowskii,western stickseed,,Lappula redowskii,"","","",stev
+I,H,Lappula squarrosa,two-row stickseed,,Lappula squarrosa,doug,"",pope,stev
+N,E,Larix laricina,tamarack,,Larix laricina,doug,"",pope,""
+N,H,Lathyrus ochroleucus,cream pea,,Lathyrus ochroleucus,doug,gran,pope,""
+N,H,Lathyrus palustris,marsh vetchling,,Lathyrus palustris,doug,"",pope,""
+N,H,Lathyrus venosus var. intonsus,veiny pea,,Lathyrus venosus var. intonsus,doug,gran,pope,""
+N,H,Lechea intermedia var. intermedia,intermediate pinweed,,Lechea intermedia,"","",pope,""
+N,H,Lechea stricta,prairie pinweed,,Lechea stricta,"","",pope,""
+N,G,Leersia oryzoides,rice cut grass,,Leersia oryzoides,doug,"",pope,""
+N,"F,H",Lemna trisulca,star duckweed,,Lemna trisulca,doug,gran,pope,stev
+N,"F,H",Lemna turionifera,turion duckweed,,Lemna minor s.l.,doug,gran,pope,stev
+I,H,Leonurus cardiaca,common motherwort,,Leonurus cardiaca,doug,"",pope,stev
+N,H,Lepidium densiflorum,green-flowered peppergrass,,Lepidium densiflorum,"","",pope,stev
+N,H,Lespedeza capitata,round-headed bush clover,,Lespedeza capitata,"","",pope,""
+I,H,Leucanthemum vulgare,ox-eye daisy,,Chrysanthemum leucanthemum,doug,"",pope,stev
+N,H,Liatris aspera,rough blazing star,,Liatris aspera,doug,gran,pope,stev
+N,H,Liatris cylindracea,cylindric blazing star,,Liatris cylindracea,"","",pope,""
+N,H,Liatris ligulistylis,northern plains blazing star,,Liatris ligulistylis,doug,gran,pope,""
+N,H,Liatris punctata var. punctata,dotted blazing star,,Liatris punctata,doug,gran,pope,stev
+N,H,Liatris pycnostachya var. pycnostachya,great blazing star,,Liatris pycnostachya,doug,gran,pope,stev
+N,H,Lilium michiganense,Michigan lily,,Lilium michiganense,doug,"","",""
+N,H,Lilium philadelphicum,wood lily,,Lilium philadelphicum var. andinum,doug,"",pope,""
+I,H,Linaria vulgaris,butter-and-eggs,,Linaria vulgaris,"","",pope,""
+N,H,Linnaea borealis var. longiflora,twinflower,,Linnaea borealis var. longiflora,doug,"","",""
+N,H,Linum lewisii var. lewisii,blue flax,,,"","","",stev
+N,H,Linum rigidum,stiffstem flax,,Linum rigidum,"","",pope,stev
+N,H,Linum rigidum var. simulans,stiffstem flax,,,"","",pope,stev
+N,H,Linum sulcatum,grooved yellow flax,,Linum sulcatum,doug,gran,pope,stev
+I,H,Linum usitatissimum,common flax,,Linum usitatissimum,doug,"","",""
+N,H,Liparis loeselii,Loesel's twayblade,,Liparis loeselii,doug,"",pope,""
+N,H,Lithospermum canescens,hoary puccoon,,Lithospermum canescens,doug,gran,pope,stev
+N,H,Lithospermum incisum,narrow-leaved puccoon,,Lithospermum incisum,doug,gran,pope,stev
+N,H,Lithospermum latifolium,American gromwell,,Lithospermum latifolium,"",gran,pope,""
+N,H,Lobelia kalmii,Kalm's lobelia,,Lobelia kalmii,"","",pope,""
+N,H,Lobelia siphilitica,great lobelia,,Lobelia siphilitica,doug,"",pope,stev
+N,H,Lobelia siphilitica var. ludoviciana,great lobelia,,Lobelia siphilitica var. ludoviciana,doug,"",pope,stev
+N,H,Lobelia siphilitica var. siphilitica,great lobelia,,Lobelia siphilitica var. siphilitica,"","",pope,""
+N,H,Lobelia spicata,pale-spiked lobelia,,Lobelia spicata,doug,gran,pope,stev
+N,H,Lomatium orientale,desert parsley,,Lomatium orientale,"","",pope,stev
+N,C,Lonicera dioica,wild honeysuckle,,Lonicera dioica,doug,gran,pope,""
+N,D,Lonicera hirsuta,hairy honeysuckle,,Lonicera hirsuta,doug,"","",""
+I,D,Lonicera tatarica,tartarian honeysuckle,,Lonicera tatarica,doug,"","",stev
+I,D,Lonicera xbella,pretty honeysuckle,,Lonicera xbella,doug,"",pope,stev
+I,H,Lotus corniculatus,bird's-foot trefoil,,Lotus corniculatus,doug,"","",""
+N,G,Luzula acuminata var. acuminata,pointed woodrush,,Luzula acuminata,doug,"","",""
+N,H,Lycopus americanus,cut-leaved bugleweed,,Lycopus americanus,doug,gran,pope,""
+N,H,Lycopus asper,rough bugleweed,,Lycopus asper,doug,gran,pope,stev
+N,H,Lycopus uniflorus,northern bugleweed,,Lycopus uniflorus,doug,"",pope,""
+N,H,Lygodesmia juncea,skeletonweed,,Lygodesmia juncea,doug,gran,pope,stev
+N,H,Lysimachia ciliata,fringed loosestrife,,Lysimachia ciliata,doug,gran,pope,stev
+N,H,Lysimachia thyrsiflora,tufted loosestrife,,Lysimachia thyrsiflora,doug,"",pope,stev
+N,H,Lythrum alatum var. alatum,winged loosesrtife,,Lythrum alatum var. alatum,"","",pope,""
+I,H,Lythrum salicaria,purple loosestrife,,Lythrum salicaria,"","",pope,stev
+N,H,Maianthemum canadense,Canada mayflower,,"Maianthemum canadense, Maianthemum canadense var. canadense, Maianthemum canadense var. interius",doug,gran,pope,""
+N,H,Maianthemum racemosum subsp. racemosum,common false Solomon's seal,,Smilacina racemosa,doug,gran,pope,""
+N,H,Maianthemum stellatum,starry false Solomon's seal,,Smilacina stellata,doug,gran,pope,stev
+N,H,Maianthemum trifolium,three-leaved false Solomon's seal,,Smilacina trifolia,doug,"",pope,""
+I,H,Malva neglecta,common mallow,,Malva neglecta,"",gran,"",""
+I,H,Matricaria discoidea,pineapple weed,,Matricaria matricarioides,doug,gran,"",""
+N,H,Matteuccia struthiopteris var. pensylvanica,ostrich fern,,Matteuccia struthiopteris,doug,"",pope,""
+I,H,Medicago lupulina,black medick,,Medicago lupulina,doug,gran,pope,stev
+I,H,Medicago sativa,alfalfa,,Medicago sativa,doug,gran,pope,""
+I,H,Melilotus albus,white sweet clover,,Melilotus albus,doug,gran,pope,stev
+I,H,Melilotus officinalis,yellow sweet clover,,Melilotus officinalis,doug,gran,pope,stev
+N,C,Menispermum canadense,Canada moonseed,,Menispermum canadense,"",gran,pope,""
+N,H,Mentha arvensis var. canadensis,common mint,,Mentha arvensis var. canadensis,doug,gran,pope,stev
+N,H,Menyanthes trifoliata,buckbean,,Menyanthes trifoliata,doug,"",pope,""
+N,H,Micranthes pensylvanica,swamp saxifrage,,Saxifraga pensylvanica,"","",pope,""
+N,H,Mimulus ringens var. ringens,blue monkey flower,,Mimulus ringens var. ringens,doug,"",pope,""
+N,H,Mirabilis albida,hairy four o'clock,,Mirabilis hirsuta,doug,"",pope,stev
+N,H,Mirabilis nyctaginea,heart-leaved four o'clock,,Mirabilis nyctaginea,doug,gran,pope,stev
+N,H,Mitella diphylla,two-leaved miterwort,,Mitella diphylla,doug,"","",""
+N,H,Mitella nuda,naked miterwort,,Mitella nuda,doug,"","",""
+N,H,Moehringia lateriflora,side-flowering sandwort,,Arenaria lateriflora,doug,gran,pope,stev
+N,H,Monarda fistulosa,wild bergamot,,Monarda fistulosa,doug,gran,pope,stev
+N,H,Moneses uniflora,one-flowered pyrola,,Moneses uniflora,doug,"","",""
+N,H,Monotropa uniflora,Indian pipe,,Monotropa uniflora,"","",pope,""
+N,G,Muhlenbergia asperifolia,scratchgrass,,Muhlenbergia asperifolia,"",gran,"",""
+N,G,Muhlenbergia cuspidata,Plains muhly,,Muhlenbergia cuspidata,doug,gran,pope,stev
+N,G,Muhlenbergia frondosa,swamp muhly grass,,Muhlenbergia frondosa,"","",pope,""
+N,G,Muhlenbergia glomerata,clustered muhly grass,,Muhlenbergia glomerata,doug,"",pope,stev
+N,G,Muhlenbergia mexicana,Mexican muhly grass,,Muhlenbergia mexicana,doug,"",pope,""
+N,G,Muhlenbergia racemosa,marsh muhly grass,,Muhlenbergia racemosa,doug,gran,pope,""
+N,G,Muhlenbergia richardsonis,mat muhly grass,,Muhlenbergia richardsonis,doug,gran,pope,""
+N,H,Mulgedium pulchellum,beautiful blue lettuce,,Lactuca pulchella,doug,gran,pope,stev
+I,H,Myosotis arvensis,field forget-me-not,,Myosotis arvensis,"","",pope,""
+N,"H,S",Myriophyllum sibiricum,northern water milfoil,,Myriophyllum sibiricum,doug,gran,pope,stev
+N,"H,S",Myriophyllum verticillatum,whorled water milfoil,,Myriophyllum verticillatum,doug,"",pope,""
+N,"H,S",Najas flexilis,flexuous naiad,,Najas flexilis,doug,"",pope,""
+N,"H,S",Najas guadalupensis,southern naiad,Najas guadalupensis s.s.,Najas guadalupensis s.l.,doug,"","",""
+N,"H,S",Najas guadalupensis subsp. guadalupensis,guadalupian southern naid,Najas guadalupensis subsp. guadalupensis,Najas guadalupensis var. guadalupensis,doug,"","",""
+N,"H,S",Najas guadalupensis subsp. olivacea,olive-colored southern naiad,Najas olivacea,Najas guadalupensis var. olivacea,doug,"","",""
+N,"H,S",Najas marina,sea naiad,,Najas marina,doug,gran,pope,""
+N,G,Nassella viridula,green needle grass,,Stipa viridula,doug,"",pope,stev
+I,H,Nepeta cataria,catnip,,Nepeta cataria,doug,gran,pope,stev
+N,H,Nothocalais cuspidata,prairie false dandelion,,Microseris cuspidata,doug,"",pope,""
+N,"F,H",Nuphar variegata,bullhead pond-lily,,Nuphar variegata,doug,"",pope,""
+N,"F,H",Nymphaea odorata,American white waterlily,,Nymphaea odorata s.l.,"","",pope,""
+N,H,Oenothera biennis,common evening primrose,,"Oenothera biennis s.s., Oenothera biennis var. biennis",doug,"",pope,""
+N,H,Oenothera parviflora,northern evening primrose,,"Oenothera parviflora s.l., Oenothera parviflora var. parviflora","","",pope,""
+N,H,Oenothera serrulata,toothed evening primrose,,Calylophus serrulatus,doug,gran,pope,stev
+N,H,Oenothera suffrutescens,scarlet gaura,,Gaura coccinea,doug,gran,pope,stev
+N,H,Oenothera villosa,hairy evening-primrose,,,doug,"",pope,""
+N,H,Oenothera villosa subsp. villosa,hairy evening-primrose,,Oenothera biennis var. canescens,doug,"",pope,""
+N,H,Onoclea sensibilis,sensitive fern,,Onoclea sensibilis,doug,"",pope,""
+N,H,Onosmodium molle,false gromwell,,Onosmodium molle,"","",pope,""
+N,H,Onosmodium molle var. occidentale,false gromwell,,Onosmodium molle var. occidentale,"","",pope,""
+N,H,Orobanche ludoviciana,Louisiana broomrape,,"Orobanche ludoviciana, Orobanche ludoviciana var. ludoviciana",doug,"","",""
+N,H,Orthilia secunda,one-sided pyrola,,Pyrola secunda,doug,"","",""
+N,G,Oryzopsis asperifolia,mountain ricegrass,,Oryzopsis asperifolia,doug,gran,pope,""
+N,H,Osmorhiza claytonii,Clayton's sweet cicely,,Osmorhiza claytonii,doug,gran,pope,""
+N,H,Osmorhiza longistylis,aniseroot,,Osmorhiza longistylis,doug,"",pope,""
+N,H,Osmundastrum cinnamomeum,cinnamon fern,,Osmunda cinnamomea,doug,"","",""
+N,D,Ostrya virginiana,ironwood,,Ostrya virginiana,doug,gran,pope,""
+N,H,Oxalis dillenii,southern wood-sorrel,,Oxalis dillenii,doug,"",pope,""
+N,H,Oxalis stricta,yellow wood-sorrel,,Oxalis stricta,doug,gran,pope,stev
+N,H,Oxalis violacea,violet wood-sorrel,,Oxalis violacea,doug,gran,pope,stev
+N,H,Oxytropis lambertii var. lambertii,Lambert's locoweed,,Oxytropis lambertii var. lambertii,doug,gran,pope,stev
+N,H,Packera aurea,golden ragwort,,Senecio aureus,"","",pope,""
+N,H,Packera paupercula,balsam ragwort,,Senecio pauperculus,doug,"",pope,""
+N,H,Packera plattensis,prairie ragwort,,Senecio plattensis,doug,"",pope,stev
+N,H,Packera pseudaurea var. semicordata,western heart-leaved groundsel,,"Senecio pseudaureus, Senecio pseudaureus var. semicordatus",doug,gran,pope,stev
+N,H,Panax quinquefolius,American ginseng,,Panax quinquefolius,doug,gran,pope,""
+N,G,Panicum capillare subsp. capillare,witch grass,,Panicum capillare,doug,gran,pope,""
+N,G,Panicum virgatum,switchgrass,,Panicum virgatum,doug,gran,pope,stev
+N,H,Parietaria pensylvanica,pellitory,,Parietaria pensylvanica,"","",pope,""
+N,H,Parnassia glauca,American grass-of-parnassus,,Parnassia glauca,doug,"",pope,""
+N,H,Parnassia palustris,marsh grass-of-parnassus,,Parnassia palustris,"","",pope,""
+N,C,Parthenocissus vitacea,woodbine,,Parthenocissus vitacea,doug,gran,pope,stev
+N,G,Pascopyrum smithii,western wheatgrass,,Elytrigia smithii,"","",pope,""
+I,H,Pastinaca sativa,wild parsnip,,Pastinaca sativa,doug,gran,"",""
+N,H,Pedicularis canadensis,wood betony,,Pedicularis canadensis,doug,gran,pope,stev
+N,H,Pedicularis lanceolata,swamp lousewort,,Pedicularis lanceolata,doug,gran,pope,stev
+N,H,Pediomelum argophyllum,silverleaf scurfpea,,Pediomelum argophyllum,doug,gran,pope,stev
+N,H,Pediomelum esculentum,prairie turnip,,Pediomelum esculentum,doug,gran,pope,stev
+N,H,Penstemon albidus,white beard tongue,,Penstemon albidus,doug,"",pope,""
+N,H,Penstemon gracilis,slender beard tongue,,Penstemon gracilis,doug,"",pope,""
+N,H,Penstemon grandiflorus,large-flowered beard tongue,,Penstemon grandiflorus,doug,"",pope,""
+N,"F,H",Persicaria amphibia,water smartweed,,"Polygonum amphibium, Polygonum amphibium var. emersum, Polygonum amphibium var. stipulaceum",doug,gran,pope,stev
+N,H,Persicaria amphibia var. emersa,longroot smartweed,,Polygonum amphibium var. emersum,doug,"",pope,stev
+N,"F,H",Persicaria amphibia var. stipulacea,flanged smartweed,,Polygonum amphibium var. stipulaceum,doug,gran,pope,""
+I,H,Persicaria hydropiper,marsh waterpepper,,Polygonum hydropiper,"","",pope,""
+N,H,Persicaria lapathifolia,nodding smartweed,,Polygonum lapathifolium,doug,gran,pope,""
+I,H,Persicaria maculosa,lady's thumb,,Polygonum persicaria,"","","",stev
+N,H,Persicaria pensylvanica,Pennsylvania smartweed,,Polygonum pensylvanicum,"","",pope,""
+N,H,Persicaria punctata,dotted smartweed,,"Polygonum punctatum, Polygonum punctatum var. confertiflorum, Polygonum punctatum var. punctatum","","",pope,""
+I,G,Phalaris arundinacea,reed canary grass,,Phalaris arundinacea,doug,gran,pope,stev
+I,G,Phleum pratense subsp. pratense,timothy,,,doug,"",pope,""
+N,H,Phlox pilosa var. fulgida,prairie phlox,,Phlox pilosa var. fulgida,doug,gran,pope,stev
+N,G,Phragmites australis,common reedgrass,,Phragmites australis,doug,gran,pope,""
+N,G,Phragmites australis subsp. americanus,common reedgrass,,Phragmites australis,doug,gran,pope,""
+N,H,Phryma leptostachya var. leptostachya,lopseed,,,doug,gran,pope,""
+N,H,Physalis heterophylla,clammy ground cherry,,"Physalis heterophylla, Physalis heterophylla var. heterophylla",doug,"",pope,stev
+N,H,Physalis virginiana,Virginia ground cherry,,Physalis virginiana,doug,gran,pope,""
+N,E,Picea glauca,white spruce,,Picea glauca,doug,"","",""
+N,E,Picea mariana,black spruce,,Picea mariana,doug,"","",""
+N,H,Pilea fontana,black-fruited clearweed,,Pilea fontana,"","",pope,""
+N,H,Pilea pumila,dwarf clearweed,,Pilea pumila,"","",pope,""
+I,H,Pimpinella saxifraga subsp. saxifraga,solidstem burnet saxifrage,,Pimpinella saxifraga,doug,"","",""
+N,G,Piptatherum racemosum,black-fruited rice grass,,Oryzopsis racemosa,doug,gran,pope,""
+N,H,Plantago eriopoda,alkali plantain,,Plantago eriopoda,"","","",stev
+I,H,Plantago major,common plantain,,Plantago major,doug,"","",""
+N,H,Platanthera aquilonis,northern green bog orchid,,Habenaria hyperborea,doug,gran,pope,""
+N,H,Platanthera huronensis,tall northern bog orchid,,"Habenaria hyperborea, Habenaria xmedia","","",pope,""
+N,H,Platanthera obtusata,bluntleaved rein orchid,,Habenaria obtusata,doug,"","",""
+N,H,Platanthera praeclara,western prairie fringed orchid,,Habenaria leucophaea var. praeclara,doug,"","",""
+I,G,Poa compressa,Canada bluegrass,,Poa compressa,"","",pope,stev
+N,G,Poa palustris,fowl bluegrass,,Poa palustris,doug,"",pope,""
+I,G,Poa pratensis,Kentucky bluegrass,,Poa pratensis,doug,gran,pope,""
+I,G,Poa pratensis subsp. pratensis,Kentucky bluegrass,,Poa pratensis,doug,gran,pope,""
+N,H,Pogonia ophioglossoides,rose pogonia,,Pogonia ophioglossoides,doug,"","",""
+N,H,Polanisia dodecandra,clammy weed,,Polanisia dodecandra,"",gran,pope,stev
+N,H,Polanisia dodecandra subsp. dodecandra,clammy weed,,Polanisia dodecandra var. dodecandra,"",gran,pope,stev
+N,H,Polanisia dodecandra subsp. trachysperma,clammy weed,,Polanisia dodecandra var. trachysperma,"",gran,"",""
+N,H,Polygala senega,Seneca snakeroot,,Polygala senega,doug,gran,pope,""
+N,H,Polygala verticillata,whorled milkwort,,"Polygala verticillata, Polygala verticillata var. isocycla",doug,gran,pope,""
+N,H,Polygonatum biflorum,giant Solomon's seal,,Polygonatum biflorum,doug,gran,pope,""
+N,H,Polygonatum pubescens,hairy Solomon's seal,,Polygonatum pubescens,doug,"",pope,""
+N,H,Polygonum ramosissimum,bushy knotweed,,Polygonum ramosissimum,doug,"",pope,""
+N,D,Populus balsamifera,balsam poplar,,Populus balsamifera,doug,"",pope,""
+N,D,Populus deltoides subsp. monilifera,cottonwood,,Populus deltoides var. occidentalis,doug,gran,pope,stev
+N,D,Populus grandidentata,big-toothed aspen,,Populus grandidentata,doug,"",pope,""
+N,D,Populus tremuloides,quaking aspen,,Populus tremuloides,doug,gran,pope,""
+I,H,Portulaca oleracea,purslane,,Portulaca oleracea,"","","",stev
+N,"F,H,S",Potamogeton amplifolius,large-leaved pondweed,,Potamogeton amplifolius,"","",pope,""
+I,"F,H",Potamogeton crispus,curly pondweed,,Potamogeton crispus,doug,"",pope,stev
+N,"F,H",Potamogeton foliosus subsp. foliosus,leafy pondweed,,Potamogeton foliosus,doug,"",pope,""
+N,"F,H",Potamogeton friesii,Fries' pondweed,,Potamogeton friesii,doug,"","",""
+N,"F,H,S",Potamogeton gramineus,grass-leaved pondweed,,Potamogeton gramineus,doug,"","",""
+N,"F,H",Potamogeton illinoensis,Illinois pondweed,,Potamogeton illinoensis,doug,"",pope,""
+N,"F,H,S",Potamogeton natans,floating pondweed,,Potamogeton natans,doug,"",pope,""
+N,"F,H",Potamogeton nodosus,American pondweed,,Potamogeton nodosus,doug,"",pope,""
+N,"F,H",Potamogeton praelongus,white-stemmed pondweed,,Potamogeton praelongus,doug,"",pope,""
+N,"F,H",Potamogeton pusillus,very small pondweed,,Potamogeton pusillus,doug,"","",""
+N,"F,H",Potamogeton richardsonii,Richardson's pondweed,,Potamogeton richardsonii,doug,"",pope,stev
+N,"F,H",Potamogeton strictifolius,straight-leaved pondweed,,Potamogeton strictifolius,doug,"",pope,""
+N,"F,H",Potamogeton zosteriformis,flat-stemmed pondweed,,Potamogeton zosteriformis,doug,"",pope,""
+N,H,Potentilla norvegica,rough cinquefoil,,Potentilla norvegica,doug,"",pope,stev
+N,H,Potentilla pensylvanica,Pennsylvania cinquefoil,,"Potentilla pensylvanica s.l., Potentilla pensylvanica var. arida, Potentilla pensylvanica var. pensylvanica",doug,gran,pope,""
+I,H,Potentilla recta,rough-fruited cinquefoil,,Potentilla recta,doug,"",pope,""
+N,H,Potentilla rivalis,brook cinquefoil,,Potentilla rivalis s.l.,doug,"",pope,""
+N,H,Potentilla supina subsp. paradoxa,busy cinquefoil,,,doug,"","",""
+N,H,Prenanthes alba,white rattlesnakeroot,,Prenanthes alba,"",gran,pope,""
+N,H,Prenanthes aspera,hairy rattlesnakeroot,,Prenanthes aspera,doug,"",pope,""
+N,H,Prenanthes racemosa,smooth rattlesnakeroot,,"Prenanthes racemosa, Prenanthes racemosa var. multiflora, Prenanthes racemosa var. racemosa",doug,gran,pope,stev
+N,D,Prunus americana,wild plum,,Prunus americana,doug,"",pope,stev
+N,D,Prunus pensylvanica,pin cherry,,Prunus pensylvanica,doug,"","",""
+N,D,Prunus pumila,sand cherry,,Prunus pumila,doug,"",pope,stev
+N,D,Prunus pumila var. besseyi,sand cherry,,Prunus pumila var. besseyi,doug,"",pope,stev
+N,D,Prunus serotina var. serotina,black cherry,,,doug,"",pope,""
+N,D,Prunus virginiana var. virginiana,eastern chokecherry,,,doug,gran,pope,stev
+N,H,Pteridium aquilinum subsp. latiusculum,eastern bracken,,Pteridium aquilinum var. latiusculum,doug,"",pope,""
+N,H,Pycnanthemum virginianum,Virginia mountain mint,,Pycnanthemum virginianum,doug,"",pope,stev
+N,H,Pyrola asarifolia subsp. asarifolia,Bog wintergreen,,Pyrola asarifolia,doug,"",pope,""
+N,H,Pyrola elliptica,elliptic shinleaf,,Pyrola elliptica,"","",pope,""
+N,D,Quercus ellipsoidalis,northern pin oak,,Quercus ellipsoidalis,"","",pope,""
+N,D,Quercus macrocarpa,bur oak,,Quercus macrocarpa,doug,gran,pope,stev
+N,D,Quercus rubra,northern red oak,,Quercus rubra,doug,"","",""
+N,H,Ranunculus abortivus,kidney-leaved buttercup,,Ranunculus abortivus var. abortivus,doug,"",pope,stev
+N,"H,S",Ranunculus aquatilis var. diffusus,limp white water crowfoot,,"Ranunculus longirostris, Ranunculus subrigidus, Ranunculus trichophyllus var. trichophyllus",doug,"",pope,""
+N,H,Ranunculus cymbalaria,seaside crowfoot,,Ranunculus cymbalaria,"","",pope,stev
+N,H,Ranunculus flabellaris,large yellow water crowfoot,,Ranunculus flabellaris,doug,"",pope,stev
+N,H,Ranunculus pensylvanicus,bristly buttercup,,Ranunculus pensylvanicus,doug,gran,pope,""
+N,H,Ranunculus recurvatus var. recurvatus,hooked crowfoot,,Ranunculus recurvatus,doug,"","",""
+N,H,Ranunculus rhomboideus,prairie buttercup,,Ranunculus rhomboideus,doug,"",pope,""
+N,H,Ranunculus sceleratus,cursed crowfoot,,Ranunculus sceleratus,doug,gran,pope,stev
+I,H,Ranunculus testiculatus,,,Ranunculus testiculatus,"","",pope,""
+N,H,Ratibida columnifera,prairie coneflower,,Ratibida columnifera,"","",pope,stev
+N,H,Ratibida pinnata,gray-headed coneflower,,Ratibida pinnata,"","","",stev
+N,D,Rhamnus alnifolia,alderleaf buckthorn,,Rhamnus alnifolia,doug,"","",""
+I,D,Rhamnus cathartica,common buckthorn,,Rhamnus cathartica,doug,gran,pope,stev
+N,B,Rhododendron groenlandicum,Labrador tea,,Ledum groenlandicum,doug,"","",""
+N,D,Rhus glabra,smooth sumac,,Rhus glabra,doug,gran,pope,""
+N,G,Rhynchospora capillacea,hair-like beak rush,,Rhynchospora capillacea,"","",pope,""
+N,D,Ribes americanum,wild black currant,,Ribes americanum,doug,gran,pope,stev
+N,D,Ribes cynosbati,prickly gooseberry,,Ribes cynosbati,doug,gran,pope,""
+N,D,Ribes hirtellum,swamp gooseberry,,Ribes hirtellum,doug,"",pope,""
+N,D,Ribes missouriense,Missouri gooseberry,,Ribes missouriense,doug,gran,pope,stev
+N,D,Ribes triste,swamp red currant,,Ribes triste,doug,"","",""
+N,H,Rorippa palustris,Icelandic yellow cress,,Rorippa palustris,doug,gran,pope,""
+N,H,Rorippa palustris subsp. hispida,Icelandic yellow cress,,Rorippa palustris var. hispida,"",gran,pope,""
+N,H,Rorippa palustris subsp. palustris,Icelandic yellow cress,,"Rorippa palustris var. fernaldiana, Rorippa palustris var. palustris",doug,"",pope,""
+N,D,Rosa arkansana,prairie rose,,Rosa arkansana,doug,gran,pope,""
+N,D,Rosa blanda,smooth wild rose,,Rosa blanda,doug,"",pope,stev
+N,D,Rosa woodsii var. woodsii,Wood's rose,,Rosa woodsii var. woodsii,"","",pope,""
+N,D,Rubus allegheniensis,Allegheny blackberry,,Rubus allegheniensis s.l.,doug,"","",""
+U,D,Rubus idaeus,American red raspberry,,Rubus idaeus,doug,"",pope,stev
+N,D,Rubus idaeus var. strigosus,wild red raspberry,,Rubus idaeus var. strigosus,doug,"",pope,stev
+N,D,Rubus occidentalis,black raspberry,,Rubus occidentalis,doug,"",pope,""
+N,H,Rubus pubescens,dwarf raspberry,,Rubus pubescens,doug,"",pope,""
+N,H,Rudbeckia hirta var. pulcherrima,black-eyed susan,,Rudbeckia hirta var. pulcherrima,doug,"",pope,""
+N,H,Rudbeckia laciniata var. laciniata,cutleaf coneflower,,Rudbeckia laciniata,doug,gran,pope,stev
+N,H,Rumex altissimus,tall water dock,,Rumex altissimus,"","","",stev
+N,H,Rumex britannica,great water dock,,Rumex orbiculatus,doug,gran,pope,""
+I,H,Rumex crispus,curly dock,,Rumex crispus,doug,"","",""
+N,H,Rumex fueginus,golden dock,,Rumex maritimus var. fueginus,doug,"","",stev
+I,H,Rumex longifolius,domestic dock,,Rumex longifolius,"","",pope,""
+I,H,Rumex pseudonatronatus,field dock,,,doug,"",pope,""
+I,H,Rumex stenophyllus,narrow-leaved dock,,Rumex stenophyllus,doug,"","",""
+N,H,Rumex triangulivalvis,Mexican dock,,,"","",pope,""
+N,"H,S",Ruppia cirrhosa,spiral ditchgrass,,Ruppia maritima,doug,gran,pope,""
+N,"H,S",Sagittaria cuneata,arum-leaved arrowhead,,Sagittaria cuneata,doug,gran,pope,""
+N,H,Sagittaria latifolia,broad-leaved arrowhead,,Sagittaria latifolia,doug,"",pope,""
+N,D,Salix amygdaloides,peach-leaved willow,,Salix amygdaloides,doug,"",pope,stev
+N,D,Salix bebbiana,Bebb's willow,,Salix bebbiana,doug,"",pope,""
+N,D,Salix candida,sage-leaved willow,,Salix candida,doug,"",pope,""
+N,D,Salix discolor,pussy willow,,Salix discolor,doug,gran,pope,stev
+N,D,Salix eriocephala,heart-leaved willow,Salix eriocephala var. eriocephala,Salix eriocephala s.l.,doug,gran,pope,stev
+N,D,Salix famelica,heart-leaved willow,Salix eriocephala var. famelica,Salix eriocephala s.l.,"",gran,pope,stev
+N,D,Salix humilis,prairie willow,,Salix humilis,doug,"",pope,""
+N,D,Salix interior,sandbar willow,,"Salix exigua, Salix exigua subsp. interior",doug,gran,pope,stev
+N,D,Salix pedicellaris,bog willow,,Salix pedicellaris,doug,"","",""
+N,D,Salix petiolaris,slender willow,,Salix petiolaris,doug,"",pope,stev
+N,D,Salix pyrifolia,balsam willow,,Salix pyrifolia,doug,"","",""
+N,D,Salix serissima,autumn willow,,Salix serissima,doug,"",pope,""
+I,D,Salix xfragilis,crank willow,,Salix fragilis,"","",pope,stev
+I,H,Salsola collina,salsola tumbleweed,,Salsola collina,doug,"",pope,""
+I,H,Salsola tragus,Russian thistle,,Salsola tragus,doug,gran,pope,stev
+I,H,Salvia reflexa,lance-leaved sage,,Salvia reflexa,doug,"","",stev
+N,D,Sambucus racemosa var. pubens,red-berried elder,,Sambucus racemosa var. pubens,doug,gran,pope,stev
+N,H,Sanguinaria canadensis,bloodroot,,Sanguinaria canadensis,doug,gran,pope,""
+N,H,Sanicula marilandica,maryland black snakeroot,,Sanicula marilandica,doug,gran,pope,""
+N,H,Sanicula odorata,clustered black snakeroot,,Sanicula gregaria,"","",pope,""
+N,H,Sceptridium multifidum,leathery grape-fern,,Botrychium multifidum,"","",pope,""
+I,G,Schedonorus pratensis,meadow fescue,,Festuca pratensis,"","",pope,""
+N,H,Scheuchzeria palustris,scheuchzeria,,Scheuchzeria palustris,doug,"",pope,""
+N,G,Schizachne purpurascens,false melic grass,,"Schizachne purpurascens, Schizachne purpurascens var. pubescens, Schizachne purpurascens var. purpurascens","","",pope,""
+N,G,Schizachyrium scoparium var. scoparium,little bluestem,,Schizachyrium scoparium var. scoparium,doug,gran,pope,stev
+N,G,Schoenoplectus acutus var. acutus,hardstem bulrush,,Scirpus acutus,doug,gran,pope,stev
+N,G,Schoenoplectus heterochaetus,slender bulrush,,Scirpus heterochaetus,doug,"",pope,""
+N,G,Schoenoplectus pungens,three-square bulrush,,Scirpus pungens,"",gran,pope,stev
+N,G,Schoenoplectus tabernaemontani,soft stem bulrush,,Scirpus validus,doug,gran,pope,stev
+N,G,Scirpus atrovirens,dark green bulrush,,"Scirpus atrovirens s.l., Scirpus atrovirens var. atrovirens","",gran,pope,""
+N,G,Scirpus pallidus,pale bulrush,,"Scirpus atrovirens s.l., Scirpus atrovirens var. pallidus",doug,gran,pope,stev
+N,G,Scirpus pendulus,rufous bulrush,,Scirpus pendulus,doug,gran,pope,""
+N,G,Scleria verticillata,whorled nutrush,,Scleria verticillata,"","",pope,""
+N,G,Scolochloa festucacea,whitetop,,Scolochloa festucacea,doug,"",pope,""
+N,H,Scrophularia lanceolata,lance-leaved figwort,,Scrophularia lanceolata,doug,gran,pope,""
+N,H,Scutellaria galericulata,marsh skullcap,,Scutellaria galericulata,doug,gran,pope,""
+N,H,Scutellaria lateriflora,mad dog skullcap,,Scutellaria lateriflora,doug,gran,pope,""
+N,H,Scutellaria leonardii,Leonard's skullcap,,Scutellaria leonardii,doug,"",pope,""
+N,H,Scutellaria parvula,prairie skullcap,,Scutellaria parvula,doug,"",pope,""
+N,H,Senecio integerrimus var. integerrimus,entire ragwort,,Senecio integerrimus,"","",pope,stev
+I,G,Setaria faberi,giant foxtail,,Setaria faberi,"","",pope,""
+I,G,Setaria pumila,yellow foxtail,,,doug,gran,pope,stev
+I,G,Setaria pumila subsp. pumila,yellow foxtail,,Setaria glauca,doug,gran,pope,stev
+I,G,Setaria verticillata,bristly foxtail,,Setaria verticillata,"",gran,"",stev
+I,G,Setaria viridis,green foxtail,,Setaria viridis,doug,gran,"",stev
+N,D,Shepherdia argentea,buffaloberry,,Shepherdia argentea,doug,"",pope,""
+N,H,Silene antirrhina,sleepy catchfly,,Silene antirrhina,"","",pope,""
+I,H,Silene csereii,smooth catchfly,,Silene csereii,doug,gran,pope,""
+I,H,Silene latifolia,white campion,,Silene latifolia,doug,gran,pope,""
+I,H,Silene noctiflora,night-flowering campion,,Silene noctiflora,"","",pope,""
+N,H,Silphium perfoliatum var. perfoliatum,cup plant,,Silphium perfoliatum,"","","",stev
+I,H,Sinapis arvensis,wild mustard,,Sinapis arvensis,doug,"",pope,stev
+I,H,Sisymbrium altissimum,tumble mustard,,Sisymbrium altissimum,doug,"",pope,stev
+N,H,Sisyrinchium campestre,field blue-eyed grass,,Sisyrinchium campestre,doug,gran,pope,stev
+N,H,Sisyrinchium montanum var. montanum,mountain blue-eyed grass,,"Sisyrinchium montanum, Sisyrinchium montanum var. crebrum, Sisyrinchium montanum var. montanum",doug,"","",""
+N,H,Sium suave,water parsnip,,Sium suave,doug,gran,pope,""
+N,H,Smilax illinoensis,Illinois carrion flower,,Smilax illinoensis,"","",pope,""
+N,H,Smilax lasioneura,common carrion flower,,Smilax herbacea var. lasioneura,doug,gran,pope,""
+N,H,Solanum emulans,black nightshade,,Solanum nigrum var. virginicum,doug,"",pope,""
+N,H,Solanum rostratum,buffalo bur,,Solanum rostratum,"","","",stev
+N,H,Solidago altissima,late goldenrod,,Solidago canadensis s.l.,doug,gran,pope,stev
+N,H,Solidago altissima subsp. altissima,late goldenrod,,Solidago canadensis var. scabra,"",gran,pope,""
+N,H,Solidago altissima subsp. gilvocanescens,late goldenrod,,Solidago canadensis var. gilvocanescens,doug,gran,pope,stev
+N,H,Solidago canadensis,Canada goldenrod,,Solidago canadensis s.l.,"","",pope,""
+N,H,Solidago canadensis var. canadensis,Canada goldenrod,,Solidago canadensis var. canadensis,--,--,--,--
+N,H,Solidago flexicaulis,zigzag goldenrod,,Solidago flexicaulis,doug,"",pope,""
+N,H,Solidago gigantea,giant goldenrod,,Solidago gigantea,doug,gran,pope,stev
+N,H,Solidago missouriensis,Missouri goldenrod,,"Solidago missouriensis, Solidago missouriensis var. fasciculata, Solidago missouriensis var. missouriensis",doug,gran,pope,stev
+N,H,Solidago nemoralis,gray goldenrod,,Solidago nemoralis,doug,gran,pope,stev
+N,H,Solidago ptarmicoides,upland white aster,,Solidago ptarmicoides,doug,"",pope,stev
+N,H,Solidago riddellii,Riddell's goldenrod,,Solidago riddellii,doug,gran,pope,""
+N,H,Solidago rigida,stiff goldenrod,,Solidago rigida,doug,"",pope,stev
+N,H,Solidago speciosa,showy goldenrod,,Solidago speciosa,doug,"",pope,""
+I,H,Sonchus arvensis,field sow thistle,,Sonchus arvensis s.l.,doug,gran,pope,stev
+I,H,Sonchus arvensis subsp. uliginosus,field sow thistle,,Sonchus arvensis var. glabrescens,doug,gran,pope,stev
+I,H,Sonchus asper,spiny sow thistle,,Sonchus asper,"",gran,pope,stev
+N,G,Sorghastrum nutans,Indian grass,,Sorghastrum nutans,doug,gran,pope,stev
+N,H,Sparganium emersum,narrowleaf bur-reed,,"Sparganium chlorocarpum, Sparganium emersum s.s.","","",pope,""
+N,H,Sparganium eurycarpum,giant bur-reed,,Sparganium eurycarpum,doug,"",pope,stev
+N,G,Spartina pectinata,prairie cordgrass,,Spartina pectinata,doug,gran,pope,stev
+N,G,Sphenopholis intermedia,slender wedge grass,,"Sphenopholis obtusata s.l., Sphenopholis obtusata var. major","","",pope,""
+N,G,Sphenopholis obtusata,prairie wedge grass,,"Sphenopholis obtusata s.l., Sphenopholis obtusata var. obtusata",doug,gran,"",""
+N,D,Spiraea alba var. alba,white meadowsweet,,Spiraea alba var. alba,doug,"",pope,""
+N,H,Spiranthes magnicamporum,Great Plains ladies' tresses,,Spiranthes magnicamporum,doug,"","",""
+N,"F,H",Spirodela polyrrhiza,greater duckweed,,Spirodela polyrhiza,doug,"","",stev
+N,G,Sporobolus compositus var. compositus,rough dropseed,,Sporobolus asper,"",gran,"",""
+N,G,Sporobolus cryptandrus,sand dropseed,,"Sporobolus cryptandrus, Sporobolus cryptandrus var. cryptandrus, Sporobolus cryptandrus var. fuscicolor",doug,"","",""
+N,G,Sporobolus heterolepis,prairie dropseed,,Sporobolus heterolepis,doug,gran,pope,stev
+N,G,Sporobolus neglectus,annual dropseed,,Sporobolus neglectus,"",gran,pope,stev
+N,H,Stachys palustris,woundwort,,Stachys palustris,doug,gran,pope,stev
+N,H,Stellaria longifolia,long-leaved chickweed,,Stellaria longifolia,doug,"",pope,""
+I,H,Stellaria media,common chickweed,,Stellaria media,doug,"","",""
+N,H,Streptopus lanceolatus,rose twistedstalk,,"Streptopus roseus, Streptopus roseus var. longipes",doug,"","",""
+N,"H,S",Stuckenia filiformis,thread-leaved pondweed,,Potamogeton filiformis,doug,"",pope,""
+N,"H,S",Stuckenia pectinata,sago pondweed,,Potamogeton pectinatus,doug,gran,pope,stev
+N,"H,S",Stuckenia vaginata,sheathed pondweed,,Potamogeton vaginatus,doug,"","",""
+N,D,Symphoricarpos occidentalis,wolfberry,,Symphoricarpos occidentalis,doug,gran,pope,stev
+N,H,Symphyotrichum boreale,bog aster,,Aster borealis,doug,"",pope,""
+N,H,Symphyotrichum ciliatum,short-rayed aster,,Aster brachyactis,doug,gran,"",""
+N,H,Symphyotrichum ciliolatum,Lindley's aster,,Aster ciliolatus,"","",pope,""
+N,H,Symphyotrichum ericoides,heath aster,,Aster ericoides,doug,gran,pope,stev
+N,H,Symphyotrichum firmum,glossy-leaf aster,,Aster firmus,"","",pope,stev
+N,H,Symphyotrichum laeve,smooth blue aster,,Aster laevis,doug,gran,pope,stev
+N,H,Symphyotrichum laeve var. laeve,smooth aster,,Aster laevis var. laevis,doug,gran,pope,stev
+N,H,Symphyotrichum lanceolatum,panicled aster,,Aster lanceolatus,doug,"",pope,stev
+N,H,Symphyotrichum lanceolatum var. hesperium,western panicled aster,,Aster hesperius,"","",pope,""
+N,H,Symphyotrichum lanceolatum var. lanceolatum,eastern panicled aster,,"Aster lanceolatus var. lanceolatus, Aster lanceolatus var. simplex",doug,"",pope,stev
+N,H,Symphyotrichum lateriflorum,side-flowering aster,,Aster lateriflorus,doug,"",pope,""
+N,H,Symphyotrichum novae-angliae,New England aster,,Aster novae-angliae,doug,"",pope,stev
+N,H,Symphyotrichum oblongifolium,aromatic aster,,Aster oblongifolius,doug,"",pope,stev
+N,H,Symphyotrichum oolentangiense,skyblue aster,,Aster oolentangiensis,"","",pope,""
+N,H,Symphyotrichum puniceum var. puniceum,red-stemmed aster,,Aster puniceus s.s.,"","",pope,stev
+N,H,Symphyotrichum sericeum,silky aster,,Aster sericeus,doug,gran,pope,stev
+I,H,Taraxacum erythrospermum,red-seeded dandelion,,Taraxacum laevigatum,"",gran,"",""
+I,H,Taraxacum officinale,common dandelion,,Taraxacum officinale,doug,"",pope,stev
+N,H,Tephroseris palustris,swamp ragwort,,Senecio congestus,doug,"",pope,""
+N,H,Teucrium canadense,germander,,Teucrium canadense,doug,gran,pope,""
+N,H,Teucrium canadense var. occidentale,germander,,Teucrium canadense var. occidentale,"","",pope,""
+N,H,Thalictrum dasycarpum,tall meadow-rue,,Thalictrum dasycarpum,doug,gran,pope,stev
+N,H,Thalictrum dioicum,early meadow-rue,,Thalictrum dioicum,doug,"",pope,""
+N,H,Thelypteris palustris var. pubescens,eastern marsh fern,,Thelypteris palustris var. pubescens,doug,"",pope,""
+I,H,Thlaspi arvense,pennycress,,Thlaspi arvense,doug,"","",""
+N,D,Tilia americana,basswood,,Tilia americana,doug,gran,pope,""
+N,"C,D",Toxicodendron radicans,poison ivy,,"Toxicodendron radicans s.s., Toxicodendron radicans var. negundo, Toxicodendron rydbergii",doug,gran,pope,stev
+N,D,Toxicodendron radicans var. rydbergii,western poison ivy,,Toxicodendron rydbergii,doug,gran,pope,stev
+N,H,Tradescantia bracteata,bracted spiderwort,,Tradescantia bracteata,"",gran,pope,stev
+I,H,Tragopogon dubius,yellow goat's beard,,Tragopogon dubius,doug,gran,pope,stev
+I,H,Tragopogon pratensis,meadow goat's beard,,Tragopogon pratensis,"","","",stev
+N,H,Triantha glutinosa,sticky false asphodel,,Tofieldia glutinosa,"","",pope,""
+N,G,Trichophorum cespitosum,tufted bulrush,,Scirpus cespitosus,"","",pope,""
+I,H,Trifolium campestre,field hop clover,,Trifolium campestre,doug,"","",""
+I,H,Trifolium hybridum,alsike clover,,Trifolium hybridum,"",gran,"",stev
+I,H,Trifolium pratense,red clover,,Trifolium pratense,doug,gran,pope,""
+I,H,Trifolium repens,white clover,,Trifolium repens,doug,"",pope,""
+N,H,Triglochin maritima,seaside arrowgrass,,Triglochin maritima,"","",pope,""
+N,H,Triglochin palustris,marsh arrowgrass,,Triglochin palustris,"","",pope,""
+N,H,Trillium cernuum,nodding trillium,,Trillium cernuum var. macranthum,doug,gran,pope,""
+N,H,Trillium grandiflorum,large-flowered trillium,,Trillium grandiflorum,doug,"","",""
+N,H,Trillium nivale,snow trillium,,Trillium nivale,doug,"","",""
+I,H,Typha angustifolia,narrow-leaved cattail,,Typha angustifolia,doug,gran,pope,""
+N,H,Typha latifolia,broad-leaved cattail,,Typha latifolia,doug,gran,pope,stev
+I,H,Typha xglauca,hybrid cattail,,Typha xglauca,doug,"","",""
+N,D,Ulmus americana,American elm,,Ulmus americana,doug,gran,pope,stev
+I,D,Ulmus pumila,Siberian elm,,Ulmus pumila,doug,gran,pope,stev
+N,D,Ulmus rubra,red elm,,Ulmus rubra,doug,gran,"",""
+N,H,Urtica dioica subsp. gracilis,stinging nettle,,Urtica dioica var. procera,doug,gran,pope,""
+N,"H,S",Utricularia intermedia,intermediate bladderwort,,Utricularia intermedia,"","",pope,""
+N,"H,S",Utricularia vulgaris,common bladderwort,,Utricularia vulgaris,doug,gran,pope,""
+N,H,Uvularia grandiflora,large-flowered bellwort,,Uvularia grandiflora,doug,gran,pope,""
+N,H,Uvularia sessilifolia,pale bellwort,,Uvularia sessilifolia,doug,"",pope,""
+N,D,Vaccinium angustifolium,lowbush blueberry,,Vaccinium angustifolium,doug,"","",""
+N,B,Vaccinium macrocarpon,large cranberry,,Vaccinium macrocarpon,doug,"","",""
+N,D,Vaccinium myrtilloides,velvet-leaved blueberry,,Vaccinium myrtilloides,doug,"","",""
+N,B,Vaccinium oxycoccos,small cranberry,,Vaccinium oxycoccos,doug,"","",""
+N,"H,S",Vallisneria americana,eelgrass,,Vallisneria americana,"","",pope,""
+I,H,Verbascum thapsus,common mullein,,Verbascum thapsus,doug,gran,pope,""
+N,H,Verbena hastata,blue vervain,,Verbena hastata,doug,gran,"",""
+N,H,Verbena stricta,hoary vervain,,Verbena stricta,"","",pope,stev
+N,H,Verbena urticifolia,white vervain,,Verbena urticifolia,doug,gran,pope,""
+N,H,Vernonia fasciculata,bunched ironweed,,"Vernonia fasciculata, Vernonia fasciculata var. fasciculata, Vernonia fasciculata var. nebraskensis",doug,"",pope,""
+N,H,Veronica americana,American brooklime,,Veronica americana,"","",pope,""
+N,H,Veronicastrum virginicum,Culver's root,,Veronicastrum virginicum,doug,"",pope,""
+N,D,Viburnum lentago,nannyberry,,Viburnum lentago,doug,"",pope,""
+U,D,Viburnum opulus,European cranberrybush,"Viburnum opulus s.s., Viburnum trilobum",Viburnum opulus s.l.,doug,"",pope,""
+N,D,Viburnum opulus var. americanum,American high-bush cranberry,Viburnum trilobum,Viburnum opulus var. americanum,doug,"",pope,""
+N,D,Viburnum rafinesquianum,downy arrowwood,,Viburnum rafinesquianum,doug,"","",""
+N,H,Vicia americana,American vetch,,Vicia americana,doug,gran,pope,stev
+I,H,Vicia sativa,spring vetch,,Vicia sativa,doug,"",pope,""
+I,H,Vicia sativa var. angustifolia,narrow-leaved vetch,,Vicia angustifolia,doug,"",pope,""
+N,H,Viola blanda,sweet white violet,Viola incognita,Viola blanda,doug,"","",""
+N,H,Viola canadensis var. rugulosa,rugulose violet,Viola rugulosa,Viola canadensis var. rugulosa,doug,gran,pope,stev
+N,H,Viola labradorica,dog violet,Viola labradorica,Viola conspersa,doug,"","",""
+N,H,Viola nephrophylla,northern bog violet,Viola nephrophylla,Viola nephrophylla,doug,gran,pope,stev
+N,H,Viola pedatifida,prairie violet,Viola pedatifida,"Viola palmata, Viola palmata var. pedatifida",doug,gran,pope,stev
+N,H,Viola pubescens,yellow violet,Viola pubescens s.s.,Viola pubescens,doug,"",pope,""
+N,H,Viola renifolia,kidney-leaved violet,Viola renifolia,Viola renifolia,doug,"","",""
+N,H,Viola septentrionalis,northern blue violet (upper Midwest variant),Viola septentrionalis,,doug,"","",""
+N,C,Vitis riparia,wild grape,,Vitis riparia,doug,gran,pope,""
+N,"F,H",Wolffia borealis,spotted watermeal,,Wolffia punctata,doug,"","",""
+N,"F,H",Wolffia columbiana,Columbian watermeal,,Wolffia columbiana,doug,"","",""
+N,H,Xanthium strumarium,cocklebur,,"Xanthium strumarium, Xanthium strumarium var. canadense, Xanthium strumarium var. glabratum, Xanthium strumarium var. strumarium",doug,"",pope,""
+N,"H,S",Zannichellia palustris,horned pondweed,,Zannichellia palustris,doug,"",pope,stev
+N,D,Zanthoxylum americanum,prickly ash,,Zanthoxylum americanum,doug,gran,pope,stev
+N,H,Zigadenus elegans,white camas,,"Zigadenus elegans s.l., Zigadenus elegans var. elegans, Zigadenus elegans var. glaucus",doug,gran,pope,""
+N,G,Zizania palustris,northern wild rice,,Zizania palustris,"","",pope,""
+N,G,Zizania palustris var. palustris,northern wild rice,,Zizania palustris var. palustris,"","",pope,""
+N,H,Zizia aptera var. aptera,heart-leaved alexanders,,Zizia aptera,doug,gran,pope,stev
+N,H,Zizia aurea,golden alexanders,,Zizia aurea,doug,gran,pope,stev
