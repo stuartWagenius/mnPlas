@@ -1,6 +1,8 @@
 # this file: functions.R 
 
 fourCounties <- c("MnDNRDouglasCounty", "MnDNRGrantCounty", "MnDNRPopeCounty", "MnDNRStevensCounty")
+allColsMnTaxa <- c("native", "family", "genus", "familyId", "genusId", "physiognomy", 
+                   "synonymGC", "commonName", "nameDNR", "speciesId")
 
 # need error handling & documentation for these functions
 
@@ -45,5 +47,8 @@ listSpecies <- function(site.name, fields = c("nameDNR", "commonName")){
 
 # listSpecies(fourCounties, fields = c("family", "nameDNR")) |> head()
 
+# write.csv(listSpecies(fourCounties, fields = allColsMnTaxa), file = "listForSeedCollex.csv", row.names = F)
+
 foo <- listSpecies(fourCounties, fields = c("family", "nameDNR"))
 foo[foo$family %in% "Asteraceae", "nameDNR"]
+
