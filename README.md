@@ -1,6 +1,9 @@
 # mnPlas
 MNTaxa list of vascular plants with additions
 
+#### 2025 July 11
+
+added two species to mnPlas.csv that are not in MnTaxa: *Echinacea purpurea* & *Echinacea pallida*. To facilitate keeping track of additions and making additions, I added file `recordsAddedTo_mnPlas.csv_.txt` All new records will have species ids 4001, 4002, .... The '+' at the end of the name notes that the name is not an official DNR name.
 
 #### 2025 June 21
 
