@@ -1,0 +1,130 @@
+native,speciesId,inProjectArea,noteForMaddie,commonName,nameDNR
+N,1014,,common,common yarrow,Achillea millefolium
+N,1038,yes,,white snakeroot,Ageratina altissima var. altissima
+N,1039,,,glaucous false dandelion,Agoseris glauca var. glauca
+N,1081,yes,,common ragweed,Ambrosia artemisiifolia
+N,1082,yes,,great ragweed,Ambrosia trifida
+N,1083,yes,,western ragweed,Ambrosia psilostachya
+N,1126,yes,,field pussytoes,Antennaria neglecta
+N,1127,,,Parlin's pussytoes,Antennaria parlinii
+N,1128,,,Parlin's pussytoes,Antennaria parlinii subsp. fallax
+N,1131,,,plantain-leaved pussytoes,Antennaria plantaginifolia
+I,1149,yes,,common burdock,Arctium minus
+I,1169,yes,,absinthe wormwood,Artemisia absinthium
+N,1171,yes,,tarragon,Artemisia dracunculus
+N,1172,yes,common,sage wormwood,Artemisia frigida
+N,1173,yes,common,white sage,Artemisia ludoviciana subsp. ludoviciana
+N,1174,yes,,field sagewort,Artemisia campestris subsp. caudata
+N,1176,,,saw-tooth wormwood,Artemisia serrata
+N,1236,,wet,nodding bur marigold,Bidens cernua
+N,1241,,wet,tufted beggarticks,Bidens tripartita
+N,1243,,wet,leafy beggarticks,Bidens frondosa
+N,1256,,wet,false aster,Boltonia asteroides
+N,1257,,wet,false aster,Boltonia asteroides var. recognita
+N,1258,,wet,false aster,Boltonia asteroides var. latisquama
+I,1346,yes,common,plumeless thistle,Carduus acanthoides subsp. acanthoides
+I,1522,yes,,spotted knapweed,Centaurea stoebe subsp. micranthos
+N,1574,,,tall thistle,Cirsium altissimum
+I,1575,yes,common,Canada thistle,Cirsium arvense
+N,1577,,wet,swamp thistle,Cirsium muticum
+N,1579,yes,rarest,Hill's thistle,Cirsium pumilum var. hillii
+N,1580,yes,common,Flodman's thistle,Cirsium flodmanii
+I,1581,yes,,bull thistle,Cirsium vulgare
+N,1601,yes,common,horseweed,Conyza canadensis
+N,1610,yes,common,bird's foot coreopsis,Coreopsis palmata
+N,1649,,,incised hawk's beard,Crepis runcinata subsp. runcinata
+I,1650,yes,common,yellow hawk's beard,Crepis tectorum
+N,1670,,wet,marsh elder,Cyclachaena xanthiifolia
+N,1780,yes,wet,flat-topped aster,Doellingeria umbellata
+N,1809,yes,,narrow-leaved purple coneflower,Echinacea angustifolia
+N,1904,,,smooth fleabane,Erigeron glabellus var. pubescens
+N,1910,yes,,daisy fleabane,Erigeron strigosus
+N,1913,yes,,Philadelphia fleabane,Erigeron philadelphicus var. philadelphicus
+N,1936,yes,,common boneset,Eupatorium perfoliatum
+N,1960,yes,wet,grass-leaved goldenrod,Euthamia graminifolia
+N,1961,,wet,spotted Joe pye weed,Eutrochium maculatum
+N,1992,,,blanketflower,Gaillardia aristata
+I,1997,yes,common,small-flowered galinsoga,Galinsoga parviflora var. parviflora
+N,2072,yes,wet,autumn sneezeweed,Helenium autumnale
+N,2074,,,giant sunflower,Helianthus giganteus
+N,2075,,,sawtooth sunflower,Helianthus grosseserratus
+N,2076,yes,,Maximilian's sunflower,Helianthus maximiliani
+N,2077,,,Nuttall's sunflower,Helianthus nuttallii subsp. rydbergii
+N,2079,,,hairy sunflower,Helianthus hirsutus
+N,2080,,ingnore subsp?,stiff sunflower,Helianthus pauciflorus subsp. pauciflorus
+N,2081,,ingnore subsp?,stiff sunflower,Helianthus pauciflorus subsp. subrhomboideus
+N,2083,yes,,stiff sunflower,Helianthus pauciflorus
+N,2084,yes,,Jerusalem artichoke,Helianthus tuberosus
+N,2085,,,bright sunflower,Helianthus xlaetiflorus
+N,2086,,,woodland sunflower,Helianthus strumosus
+N,2087,yes,common,ox-eye,Heliopsis helianthoides var. scabra
+N,2101,,,hairy golden aster,Heterotheca villosa
+N,2106,,,long-bearded hawkweed,Hieracium longipilum
+N,2110,yes,common,rough hawkweed,Hieracium umbellatum
+N,2201,,,orange dwarfdandelion,Krigia biflora
+N,2202,,,biennial blue lettuce,Lactuca biennis
+N,2203,,,Canada wild lettuce,Lactuca canadensis
+N,2206,,,Louisiana lettuce,Lactuca ludoviciana
+I,2245,yes,,ox-eye daisy,Leucanthemum vulgare
+N,2249,yes,common,rough blazing star,Liatris aspera
+N,2250,yes,,northern plains blazing star,Liatris ligulistylis
+N,2251,yes,,dotted blazing star,Liatris punctata var. punctata
+N,2252,yes,,great blazing star,Liatris pycnostachya var. pycnostachya
+N,2253,,,cylindric blazing star,Liatris cylindracea
+N,2323,yes,,skeletonweed,Lygodesmia juncea
+I,2351,yes,,pineapple weed,Matricaria discoidea
+N,2408,yes,,beautiful blue lettuce,Mulgedium pulchellum
+N,2441,,,prairie false dandelion,Nothocalais cuspidata
+N,2495,,,golden ragwort,Packera aurea
+N,2497,yes,,balsam ragwort,Packera paupercula
+N,2498,yes,,prairie ragwort,Packera plattensis
+N,2499,,,western heart-leaved groundsel,Packera pseudaurea var. semicordata
+N,2725,,,white rattlesnakeroot,Prenanthes alba
+N,2726,,,hairy rattlesnakeroot,Prenanthes aspera
+N,2727,yes,common,smooth rattlesnakeroot,Prenanthes racemosa
+N,2793,yes,never seen in remnant,prairie coneflower,Ratibida columnifera
+N,2794,yes,never seen in remnant,gray-headed coneflower,Ratibida pinnata
+N,2875,yes,never seen in remnant,black-eyed susan,Rudbeckia hirta var. pulcherrima
+N,2876,yes,,cutleaf coneflower,Rudbeckia laciniata var. laciniata
+N,2994,,,entire ragwort,Senecio integerrimus var. integerrimus
+N,3024,yes,never seen in remnant,cup plant,Silphium perfoliatum var. perfoliatum
+N,3046,,challening quartet,late goldenrod,Solidago altissima
+N,3047,,challening quartet,late goldenrod,Solidago altissima subsp. gilvocanescens
+N,3048,,challening quartet,Canada goldenrod,Solidago canadensis
+N,3050,,challening quartet,late goldenrod,Solidago altissima subsp. altissima
+N,3051,yes,,zigzag goldenrod,Solidago flexicaulis
+N,3052,yes,common,giant goldenrod,Solidago gigantea
+N,3055,yes,common,Missouri goldenrod,Solidago missouriensis
+N,3057,yes,common,gray goldenrod,Solidago nemoralis
+N,3060,yes,common,upland white aster,Solidago ptarmicoides
+N,3061,yes,wet,Riddell's goldenrod,Solidago riddellii
+N,3062,yes,common,stiff goldenrod,Solidago rigida
+N,3066,yes,common,showy goldenrod,Solidago speciosa
+I,3074,,,field sow thistle,Sonchus arvensis subsp. uliginosus
+I,3075,,,spiny sow thistle,Sonchus asper
+I,3076,,,field sow thistle,Sonchus arvensis
+N,3144,,wet,bog aster,Symphyotrichum boreale
+N,3145,,wet,Lindley's aster,Symphyotrichum ciliolatum
+N,3148,,,short-rayed aster,Symphyotrichum ciliatum
+N,3152,,wet,glossy-leaf aster,Symphyotrichum firmum
+N,3153,yes,common,smooth blue aster,Symphyotrichum laeve
+N,3155,,ignore var?,smooth aster,Symphyotrichum laeve var. laeve
+N,3156,yes,,panicled aster,Symphyotrichum lanceolatum
+N,3157,,ignore vars?,western panicled aster,Symphyotrichum lanceolatum var. hesperium
+N,3160,,ignore vars?,eastern panicled aster,Symphyotrichum lanceolatum var. lanceolatum
+N,3161,yes,common,heath aster,Symphyotrichum ericoides
+N,3162,yes,,New England aster,Symphyotrichum novae-angliae
+N,3163,yes,,aromatic aster,Symphyotrichum oblongifolium
+N,3165,yes,,skyblue aster,Symphyotrichum oolentangiense
+N,3171,,wet,red-stemmed aster,Symphyotrichum puniceum var. puniceum
+N,3172,yes,,silky aster,Symphyotrichum sericeum
+N,3177,,,side-flowering aster,Symphyotrichum lateriflorum
+I,3184,,2 dandelion species,red-seeded dandelion,Taraxacum erythrospermum
+I,3185,,2 dandelion species,common dandelion,Taraxacum officinale
+N,3187,,wet,swamp ragwort,Tephroseris palustris
+I,3215,yes,,yellow goat's beard,Tragopogon dubius
+I,3216,,,meadow goat's beard,Tragopogon pratensis
+N,3287,yes,wet,bunched ironweed,Vernonia fasciculata
+N,3362,yes,,cocklebur,Xanthium strumarium
+I,4001,yes,,pale purple coneflower,Echinacea pallida+
+I,4002,yes,,purple coneflower,Echinacea purpurea+
