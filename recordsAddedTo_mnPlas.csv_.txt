@@ -1,0 +1,4 @@
+"native","family","genus","familyId","genusId","physiognomy","synonymGC","commonName","nameDNR","speciesId"
+"I","Asteraceae","Echinacea",5,294,"H","Echinacea pallida var. pallida","pale purple coneflower","Echinacea pallida+",4001
+"I","Asteraceae","Echinacea",5,294,"H","Echinacea purpurea","purple coneflower","Echinacea purpurea+",4002
+"I","","",,,"","","","",4003
